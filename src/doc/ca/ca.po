@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-06-10 13:09+0200\n"
+"POT-Creation-Date: 2012-03-05 15:23+0100\n"
 "PO-Revision-Date: 2009-08-09 19:44+0200\n"
 "Last-Translator: Judith Pintó Subirada <judithp@gmail.com>\n"
 "Language-Team: Catalan <fedora@softcatala.net>\n"
@@ -33,20 +33,23 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
-msgid "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+#, fuzzy
+msgid "@@image: 'images/date-time.png'; md5=d7c0574ecc00072c5ae7bf0c70a36aa9"
 msgstr "res"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+#, fuzzy
 msgid ""
-"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+"@@image: 'images/date-time-ntp.png'; md5=0124c9f946aa5cd33ccf58075ce6c48f"
 msgstr "res"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
-msgid "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+#, fuzzy
+msgid "@@image: 'images/timezone.png'; md5=2059859babcfae5df05192c98b9ae291"
 msgstr "res"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
@@ -105,6 +108,32 @@ msgstr "12/03/2008"
 msgid "Use menuchoice elements where applicable"
 msgstr "Utilitza elements de selección de menu on es pugui"
 
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.10"
+msgstr "1.0.10"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2010-05-06"
+msgstr "06/05/2008"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Add copyright information"
+msgstr "Afegir informació de copyright"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.11"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2012-03-05"
+msgstr "06/05/2008"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Update screenshots and some descriptions"
+msgstr ""
+
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
 msgid ""
@@ -126,6 +155,27 @@ msgstr "Red Hat"
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
 msgid "<placeholder-1/>, Inc."
 msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2007"
+msgstr "2007"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2008"
+msgstr "2008"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2010"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+#, fuzzy
+msgid "2012"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(holder)
+msgid "Red Hat, Inc."
+msgstr "Red Hat, Inc."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
 msgid "timetool"
@@ -202,9 +252,10 @@ msgid "date configuration"
 msgstr "configuració de la data"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+#, fuzzy
 msgid ""
-"As shown in <xref linkend=\"dateconfig-time-date\"/>, the first tabbed "
-"window that appears is for configuring the system date and time."
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, on the first tab you "
+"can configure the system date and time."
 msgstr ""
 "Tal com es mostra a <xref linkend=\"dateconfig-time-date\"/>, la primera "
 "finestra amb pestanyes que apareix permet configurar l'hora i la data del "
@@ -244,15 +295,16 @@ msgid ""
 "and <keycap>Down</keycap> to change the values."
 msgstr ""
 "Com a alternativa, podeu fer servir el teclat per canviar la data i l'hora. "
-"Useu <keycap>tab</keycap> i <keycombo><keycap>Tecla de majúscula</keycap><keycap>tab</"
-"keycap></keycombo> per moure-us entre els controls. En el calendari, podeu "
-"fer servir <keycombo><keycap>Ctrl</keycap><keycap>Amunt</keycap></keycombo> i "
-"<keycombo><keycap>Ctrl</keycap><keycap>Abaix</keycap></keycombo> per canviar "
-"l'any, <keycombo><keycap>Ctrl</keycap><keycap>Esquerra</keycap></keycombo> "
-"i <keycombo><keycap>Ctrl</keycap><keycap>Dreta</keycap></keycombo> per canviar "
-"el mes i les tecles de fletxa i <keycap>barra espaiadora</keycap> per escollir "
-"i establir la data. En els controls d'hora, minut i segon, empreu <keycap>Amunt</keycap> "
-"i <keycap>Abaix</keycap> per canviar els valors."
+"Useu <keycap>tab</keycap> i <keycombo><keycap>Tecla de majúscula</"
+"keycap><keycap>tab</keycap></keycombo> per moure-us entre els controls. En "
+"el calendari, podeu fer servir <keycombo><keycap>Ctrl</keycap><keycap>Amunt</"
+"keycap></keycombo> i <keycombo><keycap>Ctrl</keycap><keycap>Abaix</keycap></"
+"keycombo> per canviar l'any, <keycombo><keycap>Ctrl</"
+"keycap><keycap>Esquerra</keycap></keycombo> i <keycombo><keycap>Ctrl</"
+"keycap><keycap>Dreta</keycap></keycombo> per canviar el mes i les tecles de "
+"fletxa i <keycap>barra espaiadora</keycap> per escollir i establir la data. "
+"En els controls d'hora, minut i segon, empreu <keycap>Amunt</keycap> i "
+"<keycap>Abaix</keycap> per canviar els valors."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
@@ -293,11 +345,10 @@ msgstr "ntpd"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
 msgid ""
-"As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
-"that appears is for configuring NTP."
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, instead of manually "
+"configuring date and time you can choose to have them be set automatically "
+"and continuously updated from one or more time servers."
 msgstr ""
-"Tal com es mostra a <xref linkend=\"dateconfig-ntp\"/>, la segona finestra "
-"amb pestanyes permet configurar l'NTP."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
@@ -305,18 +356,19 @@ msgid "NTP Properties"
 msgstr "Propietats de NTP"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+#, fuzzy
 msgid ""
 "The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
 "remote time server or time source. The application allows you to configure "
 "an NTP daemon to synchronize your system clock with a remote server. To "
-"enable this feature, select <guibutton>Enable Network Time Protocol</"
-"guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other "
-"options. You can choose one of the predefined servers, edit a predefined "
-"server by clicking the <guibutton>Edit</guibutton> or add a new server name "
-"by clicking <guibutton>Add</guibutton>. Your system does not start "
-"synchronizing with the NTP server until you click <guibutton>OK</guibutton>. "
-"After clicking <guibutton>OK</guibutton>, the configuration is saved and the "
-"NTP daemon is started (or restarted if it is already running)."
+"enable this feature, select <guibutton>Synchronize date and time over the "
+"network</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list "
+"and other options. You can choose one of the predefined servers, edit a "
+"predefined server by clicking the <guibutton>Edit</guibutton> or add a new "
+"server name by clicking <guibutton>Add</guibutton>. Your system does not "
+"start synchronizing with the NTP server until you click <guibutton>OK</"
+"guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is "
+"saved and the NTP daemon is started (or restarted if it is already running)."
 msgstr ""
 "El dimoni del protocol de temps de xarxa (NTP) sincronitza el rellotge del "
 "sistema amb un servidor de temps remot o font de temps. L'aplicació us "
@@ -340,9 +392,10 @@ msgid "time zone configuration"
 msgstr "configuració de la zona horària"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+#, fuzzy
 msgid ""
-"As shown in <xref linkend=\"dateconfig-timezone\"/>, the third tabbed window "
-"that appears is for configuring the system time zone."
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, on the second tab you "
+"can configure the system time zone."
 msgstr ""
 "Tal com es mostra a <xref linkend=\"dateconfig-timezone\"/>, la tercera "
 "pestanya de la finestra permet configurar la zona horària del sistema."
@@ -406,7 +459,14 @@ msgstr ""
 "com a Temps mig de Greenwich (GMT). Altres zones horàries es determinen "
 "sumant o restant de l'hora UTC."
 
-#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
 msgid "translator-credits"
 msgstr "Judith Pinto Subirada <judithp@gmail.com>, 2009"
+
+#~ msgid ""
+#~ "As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
+#~ "that appears is for configuring NTP."
+#~ msgstr ""
+#~ "Tal com es mostra a <xref linkend=\"dateconfig-ntp\"/>, la segona "
+#~ "finestra amb pestanyes permet configurar l'NTP."

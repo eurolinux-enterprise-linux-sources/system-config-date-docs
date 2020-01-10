@@ -23,7 +23,7 @@
 			<primary>date configuration</primary>
 		</indexterm>
 		<para>
-			As shown in <xref linkend="dateconfig-time-date"/>, the first tabbed window that appears is for configuring the system date and time.
+			As shown in <xref linkend="dateconfig-time-date"/>, on the first tab you can configure the system date and time.
 		</para>
 		<figure float="0" id="dateconfig-time-date"><title>Time and Date Properties</title>
 			<mediaobject>
@@ -76,7 +76,7 @@
 			</primary>
 		</indexterm>
 		<para>
-			As shown in <xref linkend="dateconfig-ntp"/>, the second tabbed window that appears is for configuring NTP.
+			As shown in <xref linkend="dateconfig-ntp"/>, instead of manually configuring date and time you can choose to have them be set automatically and continuously updated from one or more time servers.
 		</para>
 		<figure float="0" id="dateconfig-ntp"><title>NTP Properties</title>
 			<mediaobject>
@@ -89,7 +89,7 @@
 			</mediaobject>
 		</figure>
 		<para>
-			The Network Time Protocol (NTP) daemon synchronizes the system clock with a remote time server or time source. The application allows you to configure an NTP daemon to synchronize your system clock with a remote server. To enable this feature, select <guibutton>Enable Network Time Protocol</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other options. You can choose one of the predefined servers, edit a predefined server by clicking the <guibutton>Edit</guibutton> or add a new server name by clicking <guibutton>Add</guibutton>. Your system does not start synchronizing with the NTP server until you click <guibutton>OK</guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is saved and the NTP daemon is started (or
+			The Network Time Protocol (NTP) daemon synchronizes the system clock with a remote time server or time source. The application allows you to configure an NTP daemon to synchronize your system clock with a remote server. To enable this feature, select <guibutton>Synchronize date and time over the network</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other options. You can choose one of the predefined servers, edit a predefined server by clicking the <guibutton>Edit</guibutton> or add a new server name by clicking <guibutton>Add</guibutton>. Your system does not start synchronizing with the NTP server until you click <guibutton>OK</guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is saved and the NTP daemon is started (or
 			restarted if it is already running).
 		</para>
 		 
@@ -103,7 +103,7 @@
 			<primary>time zone configuration</primary>
 		</indexterm>
 		<para>
-			As shown in <xref linkend="dateconfig-timezone"/>, the third tabbed window that appears is for configuring the system time zone.
+			As shown in <xref linkend="dateconfig-timezone"/>, on the second tab you can configure the system time zone.
 		</para>
 		 
 		<para>

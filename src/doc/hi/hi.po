@@ -1,38 +1,32 @@
-# translation of system-config-date.docs.po to Hindi
-# Rajesh Ranjan <rajesh672@gmail.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: system-config-date.docs\n"
-"POT-Creation-Date: 2009-06-10 13:09+0200\n"
-"PO-Revision-Date: 2009-10-01 15:55+0530\n"
-"Last-Translator: Rajesh Ranjan <rajesh672@gmail.com>\n"
-"Language-Team: Hindi <hindi.sf.net>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-03-05 15:23+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
-"\n"
-"\n"
-"\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
-msgid "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
-msgstr "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+msgid "@@image: 'images/date-time.png'; md5=d7c0574ecc00072c5ae7bf0c70a36aa9"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
-msgid "@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
-msgstr "@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+msgid ""
+"@@image: 'images/date-time-ntp.png'; md5=0124c9f946aa5cd33ccf58075ce6c48f"
+msgstr ""
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
-msgid "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
-msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+msgid "@@image: 'images/timezone.png'; md5=2059859babcfae5df05192c98b9ae291"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
@@ -40,55 +34,79 @@ msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
 msgid "Time and Date Properties Tool"
-msgstr "समय व तिथि विशेषता उपकरण"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0"
-msgstr "1.0"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2007-11-22"
-msgstr "2007-11-22"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Initial revision"
-msgstr "आरंभिक पुनरीक्षण"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0.1"
-msgstr "1.0.1"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2008-01-17"
-msgstr "2008-01-17"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Make DocBook XML validate properly"
-msgstr "DocBook XML वैधीकरण ठीक से बनाएँ"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0.2"
-msgstr "1.0.2"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2008-01-18"
-msgstr "2008-01-18"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Make document abstract external"
-msgstr "दस्तावेज़ सारांश बाहरी बनाएँ"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0.3"
-msgstr "1.0.3"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2008-03-12"
-msgstr "2008-03-12"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Use menuchoice elements where applicable"
-msgstr "जहाँ लागू हो वहाँ मेन्यू पसंद तत्व का प्रयोग करें"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.10"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2010-05-06"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Add copyright information"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.11"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2012-03-05"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Update screenshots and some descriptions"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
@@ -97,38 +115,58 @@ msgid ""
 "to change the system date and time, to configure the time zone used by the "
 "system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
 "the system clock with a time server."
-msgstr "<application>Time and Date Properties Tool</application> उपयोक्ता को तंत्र तिथि और समय बदलने की छूट देता है, तंत्र के द्वारा प्रयुक्त समय क्षेत्र विन्यस्त करने के लिए, और Network Time Protocol (NTP) डेमॉन को सेटअप करने के लिए समय सर्वर के साथ तंत्र घड़ी को तुल्यकालित करने के लिए."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
 msgid "Red Hat"
-msgstr "Red Hat"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
 msgid "<placeholder-1/>, Inc."
-msgstr "<placeholder-1/>, Inc."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2007"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2008"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2010"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2012"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(holder)
+msgid "Red Hat, Inc."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
 msgid "timetool"
-msgstr "timetool"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
 msgid "system-config-date"
-msgstr "system-config-date"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
 msgid "system-config-time"
-msgstr "system-config-time"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
 msgid "dateconfig"
-msgstr "dateconfig"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
 msgid ""
 "You must be running the <application>X</application> Window System and have "
 "root privileges to use the Time and Date Properties Tool. There are three "
 "ways to start the application:"
-msgstr "आपको जरूर <application>X</application> विंडो तंत्र को चलाना चाहिए और तिथि व समय विशेषता औज़ार के प्रयोग के लिए रूट अधिकार रखना चाहिए. अनुप्रयोग आरंभ करने के तीन तरीके हैं:"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
 msgid ""
@@ -137,15 +175,12 @@ msgid ""
 "guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
 "Time</guimenuitem></menuchoice>"
 msgstr ""
-"डेस्कटॉप से, जाएँ <menuchoice><guimenu>पटल का मुख्य मेन्यू (\"f\" प्रती के साथ मेन्यू)</guimenu><guisubmenu>System</"
-"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
-"Time</guimenuitem></menuchoice>"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
 msgid ""
 "From the desktop, right-click on the time in the toolbar and select "
 "<guimenuitem>Adjust Date and Time</guimenuitem>."
-msgstr "डेस्कटॉप से, औज़ारपट्टी पर समय पर दाहिना क्लिक करें और <guimenuitem>Adjust Date and Time</guimenuitem> चुनें."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
 msgid ""
@@ -154,37 +189,34 @@ msgid ""
 "(for example, in an <application>XTerm</application> or a "
 "<application>GNOME</application> terminal)."
 msgstr ""
-"<command>system-config-date</command> , <command>system-"
-"config-time</command>, या <command>dateconfig</command> को शेल प्रांप्ट पर कमांड टाइप करें "
-"(उदाहरण के लिए, एक <application>XTerm</application> में या किसी <application>GNOME</application> टर्मिनल में)."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
 msgid "Time and Date Properties"
-msgstr "तिथि व समय विशेषता"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
 msgid "time configuration"
-msgstr "समय विन्यास"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
 msgid "date configuration"
-msgstr "तिथि विन्यास"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
 msgid ""
-"As shown in <xref linkend=\"dateconfig-time-date\"/>, the first tabbed "
-"window that appears is for configuring the system date and time."
-msgstr "जैसा <xref linkend=\"dateconfig-time-date\"/> में दिखाया गया है, पहला टैब किया विंडो जो कि तंत्र तिथि व समय के विन्यास के लिए प्रकट होती है."
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, on the first tab you "
+"can configure the system date and time."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
 msgid ""
 "To change the date, use the arrows to the left and right of the month to "
 "change the month, use the arrows to the left and right of the year to change "
 "the year, and click on the day of the week to change the day of the week."
-msgstr "तिथि बदलने के लिए, महीने के बायीं और दाहिने ओर तीर का प्रयोग करें, साल के बायीं और दाहिनी ओर तीर का प्रयोग करें बदलने के लिए और सप्ताह के दिन को बदलने के लिए सप्ताह के दिन पर क्लिक करें."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
 msgid ""
@@ -192,8 +224,6 @@ msgid ""
 "<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
 "<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
 msgstr ""
-"समय बदलने के लिए, <guilabel>घंटा</guilabel>, <guilabel>मिनट</guilabel>, और "
-"<guilabel>सेकेंड</guilabel> in the <guilabel>Time</guilabel> खंड में अप और डाउन बटन का प्रयोग करें."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
 msgid ""
@@ -208,11 +238,6 @@ msgid ""
 "set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
 "and <keycap>Down</keycap> to change the values."
 msgstr ""
-"वैकल्पिक रूप से, आप तिथि व समय बदलने के लिए आप कुंजीपट का प्रयोग कर सकते हैं. <keycap>Tab</keycap> और <keycombo><keycap>Shift</keycap><keycap>Tab</"
-"keycap></keycombo> का प्रयोग विज़ेट के बीच जाने के लिए करें. कैलेंडर विज़ेट में, आप <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> और "
-"<keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> का प्रयोग साल बदलने के लिए कर सकते हैं,<keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> "
-"और <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> महीना बदलने के लिएऔर तीर का कुंजी और <keycap>Space</keycap> किसी तिथि को चुनने या सेट करने के लिए. घंटे, मिनट और सेकेंड में, <keycap>Up</keycap> "
-"और <keycap>Down</keycap> मानों को बदलने के लिए."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
@@ -220,76 +245,74 @@ msgid ""
 "Clicking the <guibutton>OK</guibutton> button applies any changes made to "
 "the date and time, the NTP daemon settings, and the time zone settings. It "
 "also exits the program."
-msgstr "<guibutton>ठीक</guibutton> बटन पर क्लिक करना तिथि व समय, NTP डेमॉन सेटिंग और समय क्षेत्र सेटिंग में किया गया कोई परिवर्तन को लागू करता है. यह प्रोग्राम से बाहर भी निकल जाता है."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
 msgid "Network Time Protocol (NTP) Properties"
-msgstr "Network Time Protocol (NTP) विशेषता"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
 msgid "synchronize with NTP server"
-msgstr "NTP सर्वर से तुल्यकालित करें"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
 msgid "Network Time Protocol"
-msgstr "संजाल समय प्रोटोकॉल"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
 msgid "NTP"
-msgstr "NTP"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
 msgid "configuring"
-msgstr "विन्यास कर रहा है"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
 msgid "ntpd"
-msgstr "ntpd"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
 msgid ""
-"As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
-"that appears is for configuring NTP."
-msgstr "जैसा <xref linkend=\"dateconfig-ntp\"/> में दिखाया गया है, दूसरा टैब किया विंडो जो कि प्रकट होता है वह NTP के विन्यास के लिए."
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, instead of manually "
+"configuring date and time you can choose to have them be set automatically "
+"and continuously updated from one or more time servers."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
 msgid "NTP Properties"
-msgstr "NTP विशेषता"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
 msgid ""
 "The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
 "remote time server or time source. The application allows you to configure "
 "an NTP daemon to synchronize your system clock with a remote server. To "
-"enable this feature, select <guibutton>Enable Network Time Protocol</"
-"guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other "
-"options. You can choose one of the predefined servers, edit a predefined "
-"server by clicking the <guibutton>Edit</guibutton> or add a new server name "
-"by clicking <guibutton>Add</guibutton>. Your system does not start "
-"synchronizing with the NTP server until you click <guibutton>OK</guibutton>. "
-"After clicking <guibutton>OK</guibutton>, the configuration is saved and the "
-"NTP daemon is started (or restarted if it is already running)."
+"enable this feature, select <guibutton>Synchronize date and time over the "
+"network</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list "
+"and other options. You can choose one of the predefined servers, edit a "
+"predefined server by clicking the <guibutton>Edit</guibutton> or add a new "
+"server name by clicking <guibutton>Add</guibutton>. Your system does not "
+"start synchronizing with the NTP server until you click <guibutton>OK</"
+"guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is "
+"saved and the NTP daemon is started (or restarted if it is already running)."
 msgstr ""
-"Network Time Protocol (NTP) डेमॉन तंत्र घड़ी को किसी दूरस्थ समय सर्वर या समय स्रोत के साथ तुल्यकालित करता है. यह अनुप्रयोग किसी NTP डेमॉन को आपके तंत्र घड़ी के साथ तुल्यकालित करने की छूट देता है. इस फीचर को सक्रिय करने के लिए, <guibutton>Enable Network Time Protocol</"
-"guibutton> चुनें. यह <guilabel>NTP Servers</guilabel> सूची को सक्रिय करता है और दूसरे विकल्पों को. आप पूर्वपरिभाषित सर्वर में से किसी एक को चुन सकते हैं <guibutton>Edit</guibutton> को क्लिक करके या किसी नया सर्वर नाम को <guibutton>Add</guibutton> पर क्लिक करके. आपका तंत्र तुल्यकालन आरंभ नहीं करता है NTP सर्वर के साथ जब तक आप <guibutton>OK</guibutton> पर क्लिक करते हैं. "
-"<guibutton>OK</guibutton> पर क्लिक करने के बाद, विन्यास सहेज लिया जाता है और NTP डेमॉन आरंभ किया जाता है (या फिर आरंभ किया यदि यह पहले से चल रहा है)."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
 msgid "Time Zone Configuration"
-msgstr "समय क्षेत्र विन्यास"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
 msgid "time zone configuration"
-msgstr "समय क्षेत्र विन्यास"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
 msgid ""
-"As shown in <xref linkend=\"dateconfig-timezone\"/>, the third tabbed window "
-"that appears is for configuring the system time zone."
-msgstr "जैसा <xref linkend=\"dateconfig-timezone\"/> में दिखाया गया है, तीसरा टैब किया विंडो जो कि तंत्र समय क्षेत्र के विन्यास के लिए प्रकट होता है."
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, on the second tab you "
+"can configure the system time zone."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
 msgid ""
@@ -301,9 +324,6 @@ msgid ""
 "list below the map. You can use the slider to the left of the map to change "
 "the zoom level."
 msgstr ""
-"तंत्र समय क्षेत्र विन्यस्त करने के लिए, <guilabel>Time Zone</guilabel> "
-"टैब को क्लिक करें. समय क्षेत्र को या तो अंतःक्रियात्मक मानचित्र के प्रयोग से बदला जा सकता है या वांछित समय क्षेत्र चुनकर मानचित्र के नीचे से चुनकर. मानचित्र का प्रयोग करने के लिए, "
-"इसमें क्लिक करें अपने समय क्षेत्र में शहर संबंधित को चुनने के लिए. एक लाल <guilabel>X</guilabel> प्रकट होता है और मानचित्र के नीचे सूची में समय क्षेत्र चयन बदलता है. आप जूम स्तर बदलने के लिए मानचित्र की बायीं और स्लाइडर का प्रयोग कर सकते हैं."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
 msgid ""
@@ -312,16 +332,17 @@ msgid ""
 "zones is now a treelist, with cities and countries grouped within their "
 "specific continents. Non-geographic time zones have also been added to "
 "address needs in the scientific community."
-msgstr "वैकल्पिक रूप से, आप मानचित्र के नीचे सूची का प्रयोग कर सकते हैं. उसी तरह से मानचित्र आपको शहर चुनने के पहले एक क्षेत्र चुनने देता है, समय क्षेत्र की सूची अब एक तरूसूची है, शहर और देश के साथ जो विशेष महादेश के अंदर है. गैर भौगोलिक समय क्षेत्र को भी वैज्ञानिक समुदाय में जरूरत संबोधित करने के लिए जोड़ा गया है."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
-msgid "Click <guibutton>OK</guibutton> to apply the changes and exit the program."
-msgstr "<guibutton>ठीक</guibutton> पर क्लिक करें परिवर्तन लागू करने या प्रोग्राम से बाहर निकलने के लिए."
+msgid ""
+"Click <guibutton>OK</guibutton> to apply the changes and exit the program."
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
 msgid "Timezone Properties"
-msgstr "समय क्षेत्र विशेषता"
+msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
 msgid ""
@@ -330,12 +351,8 @@ msgid ""
 "Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
 "zones are determined by adding or subtracting from the UTC time."
 msgstr ""
-"यदि आपका तंत्र घड़ी UTC पर सेट किया जाता है, <guibutton>System clock "
-"uses UTC</guibutton> विकल्प का प्रयोग करें. UTC <firstterm>Universal Time, "
-"Coordinated</firstterm> के लिए होता है, जिसे ग्रीनविच माध्य समय (GMT) भी कहा जाता है. अन्य समय क्षेत्र को UTC समय में जोड़ या घटाकर निर्धारित किया जाता है."
 
-#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
 msgid "translator-credits"
-msgstr "राजेश रंजन (rranjan@redhat.com; rajesh672@gmail.com)"
-
+msgstr ""

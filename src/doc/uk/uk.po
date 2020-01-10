@@ -1,32 +1,40 @@
+# Yuri Chornoivan <yurchor@ukr.net>, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2009-06-10 13:09+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2012-03-05 15:23+0100\n"
+"PO-Revision-Date: 2010-05-15 09:08+0300\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <translation@linux.org.ua>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
-msgid "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
-msgstr ""
+#, fuzzy
+msgid "@@image: 'images/date-time.png'; md5=d7c0574ecc00072c5ae7bf0c70a36aa9"
+msgstr "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+#, fuzzy
 msgid ""
-"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+"@@image: 'images/date-time-ntp.png'; md5=0124c9f946aa5cd33ccf58075ce6c48f"
 msgstr ""
+"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
-msgid "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
-msgstr ""
+#, fuzzy
+msgid "@@image: 'images/timezone.png'; md5=2059859babcfae5df05192c98b9ae291"
+msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
@@ -34,54 +42,80 @@ msgstr ""
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
 msgid "Time and Date Properties Tool"
-msgstr ""
+msgstr "Інструмент параметрів дати й часу"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0"
-msgstr ""
+msgstr "1.0"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2007-11-22"
-msgstr ""
+msgstr "22 листопада 2007 року"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Initial revision"
-msgstr ""
+msgstr "Початкова версія"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0.1"
-msgstr ""
+msgstr "1.0.1"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2008-01-17"
-msgstr ""
+msgstr "17 січня 2008 року"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Make DocBook XML validate properly"
-msgstr ""
+msgstr "Виправлення форматування XML DocBook"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0.2"
-msgstr ""
+msgstr "1.0.2"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2008-01-18"
-msgstr ""
+msgstr "18 січня 2008 року"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Make document abstract external"
-msgstr ""
+msgstr "Створення зовнішнього резюме документа"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0.3"
-msgstr ""
+msgstr "1.0.3"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2008-03-12"
-msgstr ""
+msgstr "12 березня 2008 року"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Use menuchoice elements where applicable"
+msgstr "Використання елементів форматування пунктів меню"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.10"
+msgstr "1.0.10"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2010-05-06"
+msgstr "6 травня 2010 року"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Add copyright information"
+msgstr "Додано відомості щодо авторських прав"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.11"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2012-03-05"
+msgstr "6 травня 2010 року"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Update screenshots and some descriptions"
 msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
@@ -92,30 +126,55 @@ msgid ""
 "system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
 "the system clock with a time server."
 msgstr ""
+"За допомогою програми <application>Параметри дати й часу</application> "
+"користувач зможе змінити систему дату і час, змінити часовий пояс системи і "
+"налаштувати фонову службу протоколу мережевого часу (NTP) для синхронізації "
+"системного годинника з сервером часу."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
 msgid "Red Hat"
-msgstr ""
+msgstr "Red Hat"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
 msgid "<placeholder-1/>, Inc."
-msgstr ""
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2007"
+msgstr "2007"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2008"
+msgstr "2008"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2010"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+#, fuzzy
+msgid "2012"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(holder)
+msgid "Red Hat, Inc."
+msgstr "Red Hat, Inc."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
 msgid "timetool"
-msgstr ""
+msgstr "timetool"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
 msgid "system-config-date"
-msgstr ""
+msgstr "system-config-date"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
 msgid "system-config-time"
-msgstr ""
+msgstr "system-config-time"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
 msgid "dateconfig"
-msgstr ""
+msgstr "dateconfig"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
 msgid ""
@@ -123,6 +182,10 @@ msgid ""
 "root privileges to use the Time and Date Properties Tool. There are three "
 "ways to start the application:"
 msgstr ""
+"Щоб скористатися інструментом параметрів дати та часу, вам слід запустити "
+"систему <application>X</application> Window і мати права доступу "
+"адміністративного користувача (root). Передбачено три способи запуску "
+"програми:"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
 msgid ""
@@ -131,12 +194,19 @@ msgid ""
 "guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
 "Time</guimenuitem></menuchoice>"
 msgstr ""
+"Щоб запустити програму у стільничному середовищі, скористайтеся "
+"<menuchoice><guimenu>кнопкою головного меню (кнопкою з піктограмою \"f\") </"
+"guimenu><guisubmenu>Система</guisubmenu><guisubmenu>Адміністрування</"
+"guisubmenu><guimenuitem>Дата й час</guimenuitem></menuchoice>"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
 msgid ""
 "From the desktop, right-click on the time in the toolbar and select "
 "<guimenuitem>Adjust Date and Time</guimenuitem>."
 msgstr ""
+"На стільниці. Наведіть вказівник миші на пункт часу панелі інструментів, "
+"клацніть правою кнопкою миші і виберіть пункт меню <guimenuitem>Налаштувати "
+"дату й час</guimenuitem>."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
 msgid ""
@@ -145,27 +215,35 @@ msgid ""
 "(for example, in an <application>XTerm</application> or a "
 "<application>GNOME</application> terminal)."
 msgstr ""
+"Введіть команду <command>system-config-date</command>, <command>system-"
+"config-time</command> або <command>dateconfig</command> у рядок запрошення "
+"командної оболонки (наприклад, у <application>XTerm</application>, "
+"<application>Konsole</application> або термінала <application>GNOME</"
+"application>)."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
 msgid "Time and Date Properties"
-msgstr ""
+msgstr "Параметри дати й часу"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
 msgid "time configuration"
-msgstr ""
+msgstr "налаштування часу"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
 msgid "date configuration"
-msgstr ""
+msgstr "налаштування дати"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+#, fuzzy
 msgid ""
-"As shown in <xref linkend=\"dateconfig-time-date\"/>, the first tabbed "
-"window that appears is for configuring the system date and time."
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, on the first tab you "
+"can configure the system date and time."
 msgstr ""
+"Як можна бачити з <xref linkend=\"dateconfig-time-date\"/>, перше вкладене "
+"вікно призначено для налаштування системної дати і часу."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
 msgid ""
@@ -173,6 +251,10 @@ msgid ""
 "change the month, use the arrows to the left and right of the year to change "
 "the year, and click on the day of the week to change the day of the week."
 msgstr ""
+"Щоб змінити дату, скористайтеся кнопками зі стрілками ліворуч і праворуч від "
+"поля місяця, щоб змінити дані щодо місяця, стрілками ліворуч і праворуч від "
+"поля року, щоб змінити дані щодо року, і натисніть поле дня тижня, щоб "
+"змінити дані щодо дня тижня."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
 msgid ""
@@ -180,6 +262,9 @@ msgid ""
 "<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
 "<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
 msgstr ""
+"Щоб змінити дані щодо часу, скористайтеся кнопками зі стрілками вгору і вниз "
+"поряд з полями <guilabel>Години</guilabel>, <guilabel>Хвилини</guilabel> і "
+"<guilabel>Секунди</guilabel> розділу <guilabel>Час</guilabel>."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
 msgid ""
@@ -194,6 +279,19 @@ msgid ""
 "set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
 "and <keycap>Down</keycap> to change the values."
 msgstr ""
+"Крім того, ви можете скористатися клавіатурою для зміни даних дати і часу. "
+"Для пересування курсора між віджетами можна скористатися клавішею "
+"<keycap>Tab</keycap> і комбінацією клавіш <keycombo><keycap>Shift</"
+"keycap><keycap>Tab</keycap></keycombo>. У віджеті календаря ви можете "
+"скористатися комбінаціями клавіш <keycombo><keycap>Ctrl</"
+"keycap><keycap>Стрілка вгору</keycap></keycombo> і <keycombo><keycap>Ctrl</"
+"keycap><keycap>Стрілка вниз</keycap></keycombo>, щоб змінити рік, "
+"комбінаціями клавіш <keycombo><keycap>Ctrl</keycap><keycap>Стрілка ліворуч</"
+"keycap></keycombo> і <keycombo><keycap>Ctrl</keycap><keycap>Стрілка "
+"праворуч</keycap></keycombo>, щоб змінити дані щодо місяця, і клавішами зі "
+"стрілками і клавішею <keycap>Пробіл</keycap>, щоб вибрати і встановити дату. "
+"Змінити значення у полях годин, хвилин і секунд, скористайтеся клавішами "
+"<keycap>Стрілка вгору</keycap> і <keycap>Стрілка вниз</keycap>."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
@@ -202,72 +300,94 @@ msgid ""
 "the date and time, the NTP daemon settings, and the time zone settings. It "
 "also exits the program."
 msgstr ""
+"Натискання кнопки <guibutton>Гаразд</guibutton> призведе до застосування "
+"змін, внесених до даних щодо дати і часу, параметрів фонової служби NTP та "
+"параметрів часового поясу. Крім того, вікно програми буде закрито."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
 msgid "Network Time Protocol (NTP) Properties"
-msgstr ""
+msgstr "Властивості протоколу мережевого часу (NTP)"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
 msgid "synchronize with NTP server"
-msgstr ""
+msgstr "синхронізація з сервером NTP"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
 msgid "Network Time Protocol"
-msgstr ""
+msgstr "протокол мережевого часу"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
 msgid "NTP"
-msgstr ""
+msgstr "NTP"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
 msgid "configuring"
-msgstr ""
+msgstr "налаштування"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
 msgid "ntpd"
-msgstr ""
+msgstr "ntpd"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
 msgid ""
-"As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
-"that appears is for configuring NTP."
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, instead of manually "
+"configuring date and time you can choose to have them be set automatically "
+"and continuously updated from one or more time servers."
 msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
 msgid "NTP Properties"
-msgstr ""
+msgstr "Параметри NTP"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+#, fuzzy
 msgid ""
 "The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
 "remote time server or time source. The application allows you to configure "
 "an NTP daemon to synchronize your system clock with a remote server. To "
-"enable this feature, select <guibutton>Enable Network Time Protocol</"
-"guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other "
-"options. You can choose one of the predefined servers, edit a predefined "
-"server by clicking the <guibutton>Edit</guibutton> or add a new server name "
-"by clicking <guibutton>Add</guibutton>. Your system does not start "
-"synchronizing with the NTP server until you click <guibutton>OK</guibutton>. "
-"After clicking <guibutton>OK</guibutton>, the configuration is saved and the "
-"NTP daemon is started (or restarted if it is already running)."
+"enable this feature, select <guibutton>Synchronize date and time over the "
+"network</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list "
+"and other options. You can choose one of the predefined servers, edit a "
+"predefined server by clicking the <guibutton>Edit</guibutton> or add a new "
+"server name by clicking <guibutton>Add</guibutton>. Your system does not "
+"start synchronizing with the NTP server until you click <guibutton>OK</"
+"guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is "
+"saved and the NTP daemon is started (or restarted if it is already running)."
 msgstr ""
+"Фонова служба протоколу мережевого часу (NTP) синхронізує системний годинник "
+"з віддаленим часовим сервером або джерелом часових даних. За допомогою "
+"програми можна налаштувати фонову службу NTP на синхронізацію вашого "
+"системного годинника з віддаленим сервером. Щоб увімкнути використання "
+"служби NTP, позначте пункт <guibutton>Увімкнути протокол мережевого часу</"
+"guibutton>. Буде розблоковано список <guilabel>Сервери NTP</guilabel> та "
+"інші пункти. Ви можете скористатися одним з попередньо визначених серверів, "
+"змінити запис попередньо визначеного сервера натисканням кнопки "
+"<guibutton>Редагувати</guibutton> або додати нову назву сервера натисканням "
+"кнопки <guibutton>Додати</guibutton>. Ваша система не розпочне синхронізацію "
+"за допомогою сервера NTP до натискання кнопки <guibutton>Гаразд</guibutton>. "
+"Після натискання кнопки <guibutton>Гаразд</guibutton> налаштування буде "
+"збережено, система запустить фонову службу NTP (або перезапустить її, якщо "
+"службу вже запущено)."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
 msgid "Time Zone Configuration"
-msgstr ""
+msgstr "Налаштування часового поясу"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
 msgid "time zone configuration"
-msgstr ""
+msgstr "налаштування часового поясу"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+#, fuzzy
 msgid ""
-"As shown in <xref linkend=\"dateconfig-timezone\"/>, the third tabbed window "
-"that appears is for configuring the system time zone."
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, on the second tab you "
+"can configure the system time zone."
 msgstr ""
+"Як можна бачити з <xref linkend=\"dateconfig-timezone\"/>, третє вкладене "
+"вікно призначено для налаштування часового поясу системи."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
 msgid ""
@@ -279,6 +399,14 @@ msgid ""
 "list below the map. You can use the slider to the left of the map to change "
 "the zoom level."
 msgstr ""
+"Щоб налаштувати часовий пояс системи, перейдіть на вкладку <guilabel>Часовий "
+"пояс</guilabel>. Часовий пояс може бути змінено або за допомогою "
+"інтерактивної карти, або за допомогою вибору відповідного пункту зі списку "
+"під картою. Щоб скористатися картою, наведіть вказівник миші на місто у "
+"відповідному часовому поясі і клацніть лівою кнопкою миші. На карті "
+"з’явиться червоний хрестик, дані часового поясу під картою буде змінено. "
+"Масштаб карти можна змінити за допомогою повзунка, розташованого ліворуч від "
+"карти."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
 msgid ""
@@ -288,16 +416,24 @@ msgid ""
 "specific continents. Non-geographic time zones have also been added to "
 "address needs in the scientific community."
 msgstr ""
+"Крім того, ви можете скористатися списком, розташованим під картою. Так "
+"само, як карта надає вам змогу вибрати часовий пояс за допомогою вибору "
+"міста, список часових поясів є ієрархічним списком, у якому міста і країни "
+"згруповано за певними частинами світу. До списку також додано негеографічні "
+"часові пояси, які допоможуть визначити часовий пояс дослідникам з різних "
+"частин світу."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
 msgid ""
 "Click <guibutton>OK</guibutton> to apply the changes and exit the program."
 msgstr ""
+"Натисніть кнопку <guibutton>Гаразд</guibutton>, щоб застосувати зміни і "
+"завершити роботу програми."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
 msgid "Timezone Properties"
-msgstr ""
+msgstr "Параметри часового поясу"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
 msgid ""
@@ -306,8 +442,21 @@ msgid ""
 "Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
 "zones are determined by adding or subtracting from the UTC time."
 msgstr ""
+"Якщо ваш системний годинник налаштовано на використання всесвітнього часу "
+"(UTC) позначте пункт <guibutton>Системний годинник використовує UTC</"
+"guibutton>. UTC — це абревіатура від <firstterm>Universal Time, Coordinated</"
+"firstterm> (всесвітній скоординований час), цей відлік часу ще називають "
+"часовим відліком від Гринвіча (GMT). Інші часові пояси визначаються "
+"додаванням або відніманням проміжків часу від всесвітнього часу."
 
-#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
 msgid "translator-credits"
-msgstr ""
+msgstr "Юрій Чорноіван <yurchor@ukr.net>"
+
+#~ msgid ""
+#~ "As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
+#~ "that appears is for configuring NTP."
+#~ msgstr ""
+#~ "Як можна бачити з <xref linkend=\"dateconfig-ntp\"/>, у другому "
+#~ "вкладеному вікні можна налаштувати NTP."

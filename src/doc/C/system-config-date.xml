@@ -37,6 +37,16 @@
                 <date>2008-03-12</date>
                 <revremark>Use menuchoice elements where applicable</revremark>
             </revision>
+            <revision>
+                <revnumber>1.0.10</revnumber>
+                <date>2010-05-06</date>
+                <revremark>Add copyright information</revremark>
+            </revision>
+            <revision>
+                <revnumber>1.0.11</revnumber>
+                <date>2012-03-05</date>
+                <revremark>Update screenshots and some descriptions</revremark>
+            </revision>
         </revhistory>
 
         <abstract role="description">
@@ -48,6 +58,13 @@
                 <trademark class="registered">Red Hat</trademark>, Inc.
             </corpauthor>
         </authorgroup>
+        <copyright>
+            <year>2007</year>
+            <year>2008</year>
+            <year>2010</year>
+            <year>2012</year>
+            <holder>Red Hat, Inc.</holder>
+        </copyright>
 
     </articleinfo>
 

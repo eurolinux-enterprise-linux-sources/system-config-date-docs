@@ -8,7 +8,7 @@
 
 Summary: Documentation for setting the system date and time
 Name: system-config-date-docs
-Version: 1.0.9
+Version: 1.0.11
 Release: 1%{?dist}
 URL: https://fedorahosted.org/%{name}
 License: GPLv2+
@@ -70,6 +70,12 @@ rm -rf $RPM_BUILD_ROOT
 %doc %{_datadir}/gnome/help/system-config-date
 
 %changelog
+* Mon Mar 05 2012 Nils Philippsen <nils@redhat.com> - 1.0.11-1
+- update screenshots, descriptions
+
+* Tue Aug 24 2010 Nils Philippsen <nils@redhat.com> - 1.0.10-1
+- pick up new translations
+
 * Tue Mar 23 2010 Nils Philippsen <nils@redhat.com> - 1.0.9-1
 - version 1.0.9
 

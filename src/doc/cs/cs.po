@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2009-06-10 13:09+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: system-config-date\n"
+"POT-Creation-Date: 2012-03-05 15:23+0100\n"
+"PO-Revision-Date: 2010-08-22 10:32+0100\n"
+"Last-Translator: Milan Keršláger <milan.kerslager@pslib.cz>\n"
+"Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,21 +12,25 @@ msgstr ""
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
-msgid "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
-msgstr ""
+#, fuzzy
+msgid "@@image: 'images/date-time.png'; md5=d7c0574ecc00072c5ae7bf0c70a36aa9"
+msgstr "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+#, fuzzy
 msgid ""
-"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+"@@image: 'images/date-time-ntp.png'; md5=0124c9f946aa5cd33ccf58075ce6c48f"
 msgstr ""
+"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
 
 #. When image changes, this message will be marked fuzzy or untranslated for you.
 #. It doesn't matter what you translate it to: it's not used at all.
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
-msgid "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
-msgstr ""
+#, fuzzy
+msgid "@@image: 'images/timezone.png'; md5=2059859babcfae5df05192c98b9ae291"
+msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
@@ -34,54 +38,80 @@ msgstr ""
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
 msgid "Time and Date Properties Tool"
-msgstr ""
+msgstr "Nástroje pro Datum a Čas"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0"
-msgstr ""
+msgstr "1.0"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2007-11-22"
-msgstr ""
+msgstr "2004-11-22"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Initial revision"
-msgstr ""
+msgstr "Počáteční kontrola"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0.1"
-msgstr ""
+msgstr "1.0.1"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2008-01-17"
-msgstr ""
+msgstr "2008-01-17"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Make DocBook XML validate properly"
-msgstr ""
+msgstr "DocBook XML důkladné ověření"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0.2"
-msgstr ""
+msgstr "1.0.2"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2008-01-18"
-msgstr ""
+msgstr "2008-01-18"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Make document abstract external"
-msgstr ""
+msgstr "Zveřejnění abstraktu dokumentu"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
 msgid "1.0.3"
-msgstr ""
+msgstr "1.0.3"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
 msgid "2008-03-12"
-msgstr ""
+msgstr "2008-03-12"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
 msgid "Use menuchoice elements where applicable"
+msgstr "Použít volby menu tam, kde jeto možné"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.10"
+msgstr "1.0.10"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2010-05-06"
+msgstr "2010-05-06"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Add copyright information"
+msgstr "Informace o copyrigtu"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.11"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2012-03-05"
+msgstr "2010-05-06"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Update screenshots and some descriptions"
 msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
@@ -92,30 +122,55 @@ msgid ""
 "system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
 "the system clock with a time server."
 msgstr ""
+"Aplikace <application>Nástroje pro datum a čas</application> umožňuje "
+"uživateli měnit systémový čas a datum. konfigurovat časové zóny používané "
+"systémem a nastavit Network Time Protocol (NTP) démona, který se stará o "
+"synchronizaci systémových hodin s časovým serverem."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
 msgid "Red Hat"
-msgstr ""
+msgstr "Red Hat"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
 msgid "<placeholder-1/>, Inc."
-msgstr ""
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2007"
+msgstr "2007"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2008"
+msgstr "2008"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2010"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+#, fuzzy
+msgid "2012"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(holder)
+msgid "Red Hat, Inc."
+msgstr "Red Hat, Inc."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
 msgid "timetool"
-msgstr ""
+msgstr "timetool"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
 msgid "system-config-date"
-msgstr ""
+msgstr "system-config-date"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
 msgid "system-config-time"
-msgstr ""
+msgstr "system-config-time"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
 msgid "dateconfig"
-msgstr ""
+msgstr "dateconfig"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
 msgid ""
@@ -123,6 +178,9 @@ msgid ""
 "root privileges to use the Time and Date Properties Tool. There are three "
 "ways to start the application:"
 msgstr ""
+"Pro používání nástrojů pro správu data a času musíte mít spuštěný systém "
+"<application>X</application> Window a musíte mít práva superuživatele."
+"Existují tři způsoby spuštění aplikace."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
 msgid ""
@@ -131,12 +189,18 @@ msgid ""
 "guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
 "Time</guimenuitem></menuchoice>"
 msgstr ""
+"Z plochy přejděte do <menuchoice><guimenu>hlavního menu na panelu (menu  "
+"obsahující ikonu \"f\")</guimenu><guisubmenu>Systém</"
+"guisubmenu><guisubmenu>Správa</guisubmenu><guimenuitem>Datum a Čas</"
+"guimenuitem></menuchoice>"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
 msgid ""
 "From the desktop, right-click on the time in the toolbar and select "
 "<guimenuitem>Adjust Date and Time</guimenuitem>."
 msgstr ""
+"Jste-li na ploše, stačí kliknout pravým tlačítkem na panel nástrojů a vybrat "
+"<guimenuitem>Upravit datum a čas</guimenuitem>."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
 msgid ""
@@ -145,27 +209,34 @@ msgid ""
 "(for example, in an <application>XTerm</application> or a "
 "<application>GNOME</application> terminal)."
 msgstr ""
+"Do shell konzole vložte jeden z příkazů <command>system-config-date</"
+"command>, <command>system-config-time</command> nebo <command>dateconfig</"
+"command> (například do <application>XTerm</application> nebo do "
+"<application>GNOME</application> terminálu)."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
 msgid "Time and Date Properties"
-msgstr ""
+msgstr "Vlastnosti data a času"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
 msgid "time configuration"
-msgstr ""
+msgstr "nastavení času"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
 msgid "date configuration"
-msgstr ""
+msgstr "nastavení data"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+#, fuzzy
 msgid ""
-"As shown in <xref linkend=\"dateconfig-time-date\"/>, the first tabbed "
-"window that appears is for configuring the system date and time."
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, on the first tab you "
+"can configure the system date and time."
 msgstr ""
+"Jak je ukázáno v <xref linkend=\"dateconfig-time-date\"/>, tak první okno, "
+"které se objeví, slouží pro konfiguraci data a času."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
 msgid ""
@@ -173,6 +244,9 @@ msgid ""
 "change the month, use the arrows to the left and right of the year to change "
 "the year, and click on the day of the week to change the day of the week."
 msgstr ""
+"Pro změnu měsíce použijte šipky nacházející se vlevo a vpravo od lišty "
+"obsahující název měsíce, stejný systém najdeme i pro nastavení aktuálního "
+"roku a pro změnu dne v týdnu, klikněte na daný den v týdnu. "
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
 msgid ""
@@ -180,6 +254,10 @@ msgid ""
 "<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
 "<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
 msgstr ""
+"Pro změnu času použijte vertikální šipky nacházející se vedle "
+"<guilabel>Hodiny</guilabel>, <guilabel>Minuty</guilabel> a "
+"<guilabel>Vteřiny</guilabel>. Vše se nachází v sekci <guilabel>Čas</"
+"guilabel>."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
 msgid ""
@@ -194,6 +272,16 @@ msgid ""
 "set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
 "and <keycap>Down</keycap> to change the values."
 msgstr ""
+"Další možností je použití klávesnice pro nastavení data a času. Použijte "
+"<keycap>Tab</keycap> a <keycombo><keycap>Shift</keycap><keycap>Tab</keycap></"
+"keycombo> pro pohyb mezi jednotlivými okny. V kalendáři můlžete používat "
+"kombinace <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo>  a "
+"<keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> pro změnu "
+"roku, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> a "
+"<keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> ke změně "
+"měsíce a šipky společně s <keycap>Mezerníkem</keycap> pro výběr a nastavení "
+"data. V komponentě obstarávající nastavení hodin, minut a vteřin  použijte "
+"pro změnu hodnot <keycap>Nahoru</keycap> a <keycap>Dolů</keycap>."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
@@ -202,72 +290,92 @@ msgid ""
 "the date and time, the NTP daemon settings, and the time zone settings. It "
 "also exits the program."
 msgstr ""
+"Kliknutím na tlačítko <guibutton>OK</guibutton> potvrdíte veškeré změny, "
+"které jste provedli v nastavení data a času, NTP démonovi a také v nastavení "
+"časových zón. S jeho pomocí také ukončíte program."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
 msgid "Network Time Protocol (NTP) Properties"
-msgstr ""
+msgstr "Vlastnosti protokolu síťového času (NTP)"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
 msgid "synchronize with NTP server"
-msgstr ""
+msgstr "synchronizovat s NTP serverem"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
 msgid "Network Time Protocol"
-msgstr ""
+msgstr "Protokolu Síťového Času"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
 msgid "NTP"
-msgstr ""
+msgstr "NTP"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
 msgid "configuring"
-msgstr ""
+msgstr "konfigurace"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
 msgid "ntpd"
-msgstr ""
+msgstr "ntpd"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
 msgid ""
-"As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
-"that appears is for configuring NTP."
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, instead of manually "
+"configuring date and time you can choose to have them be set automatically "
+"and continuously updated from one or more time servers."
 msgstr ""
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
 msgid "NTP Properties"
-msgstr ""
+msgstr "Vlastnosti NTP"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+#, fuzzy
 msgid ""
 "The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
 "remote time server or time source. The application allows you to configure "
 "an NTP daemon to synchronize your system clock with a remote server. To "
-"enable this feature, select <guibutton>Enable Network Time Protocol</"
-"guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other "
-"options. You can choose one of the predefined servers, edit a predefined "
-"server by clicking the <guibutton>Edit</guibutton> or add a new server name "
-"by clicking <guibutton>Add</guibutton>. Your system does not start "
-"synchronizing with the NTP server until you click <guibutton>OK</guibutton>. "
-"After clicking <guibutton>OK</guibutton>, the configuration is saved and the "
-"NTP daemon is started (or restarted if it is already running)."
+"enable this feature, select <guibutton>Synchronize date and time over the "
+"network</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list "
+"and other options. You can choose one of the predefined servers, edit a "
+"predefined server by clicking the <guibutton>Edit</guibutton> or add a new "
+"server name by clicking <guibutton>Add</guibutton>. Your system does not "
+"start synchronizing with the NTP server until you click <guibutton>OK</"
+"guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is "
+"saved and the NTP daemon is started (or restarted if it is already running)."
 msgstr ""
+"NTP démon synchronizuje systémový čas s časem vzdáleného časového serveru "
+"nebo s jiným zdrojem času. Aplikace Vám dovoluje nakonfigurovat NTP démona "
+"tak, aby synchronizoval svůj čas s časem vzdáleného serveru. Pokud chcete "
+"využít této možnosti zatrhněte <guibutton>Povolit Protokol Síťového Času</"
+"guibutton>. Tímto povolíte seznam obsahující <guilabel>NTP Servery</"
+"guilabel> a další volby.Nyní můžete vybrat jeden z předdefinovaných serverů, "
+"měnit nastavení předdefinovaných serverů pomocí tlačítka  "
+"<guibutton>Upravit</guibutton> a také přidávat nové servery prostřednictvím "
+"tlačítka <guibutton>Přidat</guibutton>. Váš systém začne sesynchronizací až "
+"po stisku tlačítka <guibutton>OK</guibutton>. Po jeho stisku je uložena "
+"konfigurace a je spuštěn NTP démon(případně restartován pokud v době stisku "
+"tlačítka běžel)."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
 msgid "Time Zone Configuration"
-msgstr ""
+msgstr "Konfigurace Časových Zón"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
 msgid "time zone configuration"
-msgstr ""
+msgstr "konfigurace časových zón"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+#, fuzzy
 msgid ""
-"As shown in <xref linkend=\"dateconfig-timezone\"/>, the third tabbed window "
-"that appears is for configuring the system time zone."
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, on the second tab you "
+"can configure the system time zone."
 msgstr ""
+"Jak ukazuje  <xref linkend=\"dateconfig-timezone\"/>, tak třetí panelové "
+"okno, které se objeví, slouží pro konfiguraci časových zón."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
 msgid ""
@@ -279,6 +387,13 @@ msgid ""
 "list below the map. You can use the slider to the left of the map to change "
 "the zoom level."
 msgstr ""
+"Pro konfiguraci časové zóny klikněte na záložku <guilabel>Časová zóna</"
+"guilabel>. Časová zóna může být změněna buď za použití interaktivní mapy "
+"nebo prostřednictvím výběru požadované destinace ze seznamu, nacházejícího "
+"se pod mapou. Chcete-li pro výběr použít mapu, pak klikněte na město, "
+"spadající do vašeho časového pásma.Objeví se červené <guilabel>X</guilabel> "
+"a také se změní časová zóna v seznamu pod mapou. Vlevo od mapy se nachází "
+"posuvné měřítko sloužící pro přiblížení a oddálení mapy. "
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
 msgid ""
@@ -288,16 +403,22 @@ msgid ""
 "specific continents. Non-geographic time zones have also been added to "
 "address needs in the scientific community."
 msgstr ""
+"Další možností je výběr ze seznamu nacházejícího se pod mapou. Seznam má "
+"podobu stromu, v němž jsou jednotlivá města seskupena podle států a "
+"kontinentů v nichž se nacházejí. Do seznamu byly přidány i nezeměpisná "
+"časová pásma z důvodu použití vědeckou komunitou. "
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
 msgid ""
 "Click <guibutton>OK</guibutton> to apply the changes and exit the program."
 msgstr ""
+"Kliknutím na tlačítko <guibutton>OK</guibutton> uložíte změny a ukončíte "
+"program."
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
 msgid "Timezone Properties"
-msgstr ""
+msgstr "Vlastnosti časových zón"
 
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
 msgid ""
@@ -306,8 +427,20 @@ msgid ""
 "Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
 "zones are determined by adding or subtracting from the UTC time."
 msgstr ""
+"Pokud vaše systémové hodiny používají UTC, zatrhněte volbu "
+"<guibutton>Systémové hodiny jsou nastaveny na UTC</guibutton>. UTC znamená "
+"<firstterm>Universal Time, Coordinated</firstterm> občas se používá také "
+"zkratka GMT (Greenwich Mean time). Ostatníčasové zóny jsou určeny přičtením "
+"nebo odečtením určitého počtu hodin vzhledem k UTC času."
 
-#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
 msgid "translator-credits"
-msgstr ""
+msgstr "poznámky překladatele"
+
+#~ msgid ""
+#~ "As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
+#~ "that appears is for configuring NTP."
+#~ msgstr ""
+#~ "Jak znázorňuje <xref linkend=\"dateconfig-ntp\"/>, druhé panelové okno, "
+#~ "které   se objeví slouží pro konfiguraci NTP."
