@@ -1,0 +1,391 @@
+# translation of system-config-date.master-docs.or.po to Oriya
+# Manoj Kumar Giri <mgiri@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-date.master-docs.or\n"
+"POT-Creation-Date: 2009-06-10 13:09+0200\n"
+"PO-Revision-Date: 2009-11-12 17:56+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
+msgid "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+msgstr "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+msgid "@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+msgstr "@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
+msgid "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
+msgid "Time and Date Properties Tool"
+msgstr "ସମୟ ଏବଂ ତାରିଖ ଗୁଣଧର୍ମ ସାଧନ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2007-11-22"
+msgstr "2007-11-22"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Initial revision"
+msgstr "ପ୍ରାରମ୍ଭିକ ପୁନରୀକ୍ଷଣ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-17"
+msgstr "2008-01-17"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make DocBook XML validate properly"
+msgstr "DocBook XML ବୈଧିକରଣକୁ ସଠିକ ଭାବରେ କରନ୍ତୁ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-18"
+msgstr "2008-01-18"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make document abstract external"
+msgstr "ଦଲିଲ ନିଷ୍କାସନକୁ ବାହ୍ୟ କରନ୍ତୁ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.3"
+msgstr "1.0.3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Use menuchoice elements where applicable"
+msgstr "ଆବଶ୍ୟକ ସ୍ଥାନରେ ତାଲିକା ଚୟନ ଉପାଦାନଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
+msgid ""
+"The <application>Time and Date Properties Tool</application> allows the user "
+"to change the system date and time, to configure the time zone used by the "
+"system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
+"the system clock with a time server."
+msgstr ""
+"<application>ସମୟ ଏବଂ ତାରିଖ ଗୁଣଧର୍ମ ସାଧନ</application> ଚାଳକକୁ ତନ୍ତ୍ର ତାରିଖ ଏବଂ ସମୟ "
+"ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ଅନୁମତି ଦେଇଥାଏ, ତନ୍ତ୍ର ଦ୍ୱାରା ବ୍ୟବହୃତ ସମୟ ମଣ୍ଡଳକୁ ବିନ୍ୟସ କରିବା ପାଁଇ, "
+"ଏବଂ ନେଟୱର୍କ ସମୟ ପ୍ରୋଟୋକଲ (NTP) ଡେମନକୁ ତନ୍ତ୍ର ଘଣ୍ଟା ସମୟ ସର୍ଭର ସହିତ ସନ୍ତୁଳିତ କରିବା ପାଇଁ "
+"ସଂରଚନା କରିଥାଏ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
+msgid "timetool"
+msgstr "timetool"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
+msgid "system-config-date"
+msgstr "system-config-date"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
+msgid "system-config-time"
+msgstr "system-config-time"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
+msgid "dateconfig"
+msgstr "dateconfig"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the Time and Date Properties Tool. There are three "
+"ways to start the application:"
+msgstr ""
+"ଆପଣ ନିଶ୍ଚିତ ଭାବରେ <application>X</application> ୱିଣ୍ଡୋ ତନ୍ତ୍ରକୁ ଚଲାଉଛନ୍ତି ଏବଂ "
+"ସମୟ ଏବଂ ତାରିଖ ଗୁଣଧର୍ମ ସାଧନକୁ ଚଲାଇବା ପାଇଁ ମୂଖ୍ୟଚାଳକ ଅନୁମତି ଅଛି। ସେହି "
+"ପ୍ରୟୋଗକୁ ଆରମ୍ଭ କରିବା ପାଇଁ ତିନୋଟି ଉପାୟ ଅଛି:"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
+"Time</guimenuitem></menuchoice>"
+msgstr ""
+"ଡେସ୍କଟପରୁ, <menuchoice><guimenu>ପଟ୍ଟିକା ଉପରେ ମୂଖ୍ୟ ତାଲିକାକୁ ଯାଆନ୍ତୁ (\"f\" ଚିତ୍ରସଂକେତ "
+"ସହିତ ତାଲିକା)</guimenu><guisubmenu>ତନ୍ତ୍ର</"
+"guisubmenu><guisubmenu>ପ୍ରଶାସନ</guisubmenu><guimenuitem>ତାରିଖ &amp; "
+"ସମୟ</guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
+msgid ""
+"From the desktop, right-click on the time in the toolbar and select "
+"<guimenuitem>Adjust Date and Time</guimenuitem>."
+msgstr ""
+"ଡେସ୍କଟପରୁ, ସାଧନପଟିରେ ସମୟ ଉପରେ ଡାହାଣ କ୍ଲିକ କରନ୍ତୁ ଏବଂ "
+"<guimenuitem>ତାରିଖ ଏବଂ ସମୟକୁ ମେଳାନ୍ତୁ</guimenuitem>କୁ ବାଛନ୍ତୁ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
+msgid ""
+"Type the command <command>system-config-date</command>, <command>system-"
+"config-time</command>, or <command>dateconfig</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+"ନିର୍ଦ୍ଦେଶ <command>system-config-date</command>, <command>system-"
+"config-time</command>, ଅଥବା <command>dateconfig</command> କୁ "
+"ସେଲ ପ୍ରମ୍ପଟରେ ଟାଇପ କରନ୍ତୁ (ଉଦାହରଣ ସ୍ୱରୂପ, ଗୋଟିଏ <application>XTerm</application> ଅଥବା "
+"<application>GNOME</application> ଟର୍ମିନାଲରେ)।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
+msgid "Time and Date Properties"
+msgstr "ସମୟ ଏବଂ ତାରିଖ ଗୁଣଧର୍ମଗୁଡ଼ିକ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "time configuration"
+msgstr "ସମୟ ସଂରଚନା"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+msgid "date configuration"
+msgstr "ତାରିଖ ସଂରଚନା"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, the first tabbed "
+"window that appears is for configuring the system date and time."
+msgstr ""
+"<xref linkend=\"dateconfig-time-date\"/> ରେ ଦର୍ଶାଯାଇଥିବା ପରି, ପ୍ରଥମ ଟ୍ୟାବ "
+"ହୋଇଥିବା ୱିଣ୍ଡୋ ଯାହାକି ବିନ୍ୟାସିତ ହେବାପାଇଁ ଦୃଶ୍ୟମାନ ହୋଇଥାଏ ଅଥବା ତନ୍ତ୍ର ତାରିଖ ଏବଂ "
+"ସମୟକୁ ବିନ୍ୟାସ କରିଥାଏ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
+msgid ""
+"To change the date, use the arrows to the left and right of the month to "
+"change the month, use the arrows to the left and right of the year to change "
+"the year, and click on the day of the week to change the day of the week."
+msgstr ""
+"ତାରିଖ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ, ମାସ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ତୀରକୁ ମାସର ବାମ ଏବଂ "
+"ଡାହାଣକୁ ବ୍ୟବହାର କରନ୍ତୁ, ବର୍ଷକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ତୀରକୁ ବର୍ଷର ବାମ ଏବଂ ଡାହାଣରେ "
+"ବ୍ୟବହାର କରନ୍ତୁ, ଏବଂ ସପ୍ତାହର ଦିନ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ସପ୍ତାହର କୌଣସି ଦିନ ଉପରେ କ୍ଲିକ କରନ୍ତୁ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
+msgid ""
+"To change the time, use the up and down arrow buttons beside the "
+"<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
+"<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
+msgstr ""
+"ସମୟ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ, ଉପର ଏବଂ ଡାହାଣ ତୀର ବଟନକୁ <guilabel>Time</guilabel> ବିଭାଗରେ "
+"<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, ଏବଂ "
+"<guilabel>Second</guilabel> ବ୍ୟବହରା କରନ୍ତୁ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
+msgid ""
+"Alternatively, you can use the keyboard to change date and time. Use "
+"<keycap>Tab</keycap> and <keycombo><keycap>Shift</keycap><keycap>Tab</"
+"keycap></keycombo> to move between the widgets. In the calendar widget, you "
+"can use <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> and "
+"<keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> to change "
+"the year, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> "
+"and <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> to "
+"change the month and the arrow keys and <keycap>Space</keycap> to choose and "
+"set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
+"and <keycap>Down</keycap> to change the values."
+msgstr ""
+"ବୈକଳ୍ପିକ ଭାବରେ, ଆପଣ ତାରିଖ ଏବଂ ସମୟକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ କିବୋର୍ଡ ବ୍ୟବହାର କରନ୍ତୁ। "
+"ୱିଜେଟଗୁଡ଼ିକ ମଧ୍ଯରେ ବ୍ୟବହାର କରିବା ପାଇଁ <keycap>Tab</keycap> ଏବଂ <keycombo> "
+"<keycap>Shift</keycap><keycap>Tab</keycap></keycombo> ବ୍ୟବହାର କରନ୍ତୁ। "
+"କ୍ୟାଲେଣ୍ଡର ୱିଜେଟରେ, ଆପଣ <keycombo><keycap>Ctrl</keycap><keycap>Up "
+"</keycap></keycombo> ଏବଂ<keycombo><keycap>Ctrl</keycap><keycap> "
+"Down</keycap></keycombo> କି ବ୍ୟବହାର କରିପାରିବେ, <keycombo><keycap>Ctrl</keycap> "
+"<keycap>Left</keycap></keycombo> ଏବଂ <keycombo><keycap>Ctrl</keycap> "
+"<keycap>Right</keycap></keycombo> ମାସ ଏବଂ ତୀର କିକୁ ଏବଂ <keycap>Space</keycap> "
+"ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ବାଛନ୍ତୁ ଏବଂ ଗୋଟିଏ ତାରିଖ ସେଟ କରନ୍ତୁ। ଘଣ୍ଟା, ମିନଟ ଏବଂ ସେକଣ୍ଡ ୱିଜେଟଗୁଡ଼ିକରେ, ମୂଲ୍ୟ "
+"ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ <keycap>Up</keycap> ଏବଂ <keycap>Down</keycap> କୁ ବ୍ୟବହାର କରନ୍ତୁ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
+msgid ""
+"Clicking the <guibutton>OK</guibutton> button applies any changes made to "
+"the date and time, the NTP daemon settings, and the time zone settings. It "
+"also exits the program."
+msgstr ""
+"<guibutton>OK</guibutton> ବଟନକୁ କ୍ଲିକ କରିବା ଦ୍ୱାରା ତାରିଖ ଏବଂ ସମୟ, NTP ଡେମନ ବିନ୍ୟାସ, ଏବଂ "
+"ସମୟ ମଣ୍ଡଳ ବିନ୍ୟାସରେ କରାଯାଇଥିବା କୌଣସି ପରିବର୍ତ୍ତନକୁ ପ୍ରୟୋଗ କରାଯାଇଥାଏ। ଏହା ମଧ୍ଯ "
+"ପ୍ରଗ୍ରାମରୁ ପ୍ରସ୍ଥାନ କରିଥାଏ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
+msgid "Network Time Protocol (NTP) Properties"
+msgstr "ନେଟୱର୍କ ସମୟ ପ୍ରଟୋକଲ (NTP) ଗୁଣଧର୍ମ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "synchronize with NTP server"
+msgstr "NTP ସର୍ଭର ସହିତ ସନ୍ତୁଳିତ ରଖନ୍ତୁ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "Network Time Protocol"
+msgstr "ନେଟୱର୍କ ସମୟ ପ୍ରୋଟୋକଲ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "NTP"
+msgstr "NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "configuring"
+msgstr "ବିନ୍ୟାସ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
+msgid "ntpd"
+msgstr "ntpd"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
+"that appears is for configuring NTP."
+msgstr ""
+"<xref linkend=\"dateconfig-ntp\"/>ରେ ଦର୍ଶାଯାଇଥିବା ପରି, ସେକଣ୍ଡ ଟ୍ୟାବ ହୋଇଥିବା ୱିଣ୍ଡୋ "
+"ଯାହାକି NTP ସଂରଚନା କରିବା ପାଇଁ ଦୃଶ୍ୟମାନ ହୋଇଥାଏ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
+msgid "NTP Properties"
+msgstr "NTP ଗୁଣଧର୍ମ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+msgid ""
+"The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
+"remote time server or time source. The application allows you to configure "
+"an NTP daemon to synchronize your system clock with a remote server. To "
+"enable this feature, select <guibutton>Enable Network Time Protocol</"
+"guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other "
+"options. You can choose one of the predefined servers, edit a predefined "
+"server by clicking the <guibutton>Edit</guibutton> or add a new server name "
+"by clicking <guibutton>Add</guibutton>. Your system does not start "
+"synchronizing with the NTP server until you click <guibutton>OK</guibutton>. "
+"After clicking <guibutton>OK</guibutton>, the configuration is saved and the "
+"NTP daemon is started (or restarted if it is already running)."
+msgstr ""
+"ନେଟୱର୍କ ସମୟ ପ୍ରୋଟୋକଲ (NTP) ଡେମନ ତନ୍ତ୍ର ଘଣ୍ଟାକୁ ସୁଦୂର ସମୟ ସର୍ଭର ଅଥବା ସମୟ ଉତ୍ସ ସହିତ "
+"ସମତାଳ କରିଥାଏ। ସେହି ପ୍ରୟୋଗଟି ଆପଣଙ୍କୁ ସୁଦୂର ସର୍ଭର ସହିତ ଗୋଟିଏ NTP ଡେମନ ସଂରଚନା "
+"କରିବା ପାଇଁ ଅନୁମତି ଦେଇଥାଏ। ଏହି ବିଶେଷତାକୁ ସକ୍ରିୟ କରିବା ପାଇଁ, <guibutton>Enable Network Time Protocol</"
+"guibutton> କୁ ବାଛନ୍ତୁ। ଏହା <guilabel>NTP Servers</guilabel> ତାଲିକା ଏବଂ ଅନ୍ୟାନ୍ୟ ବିକଳ୍ପଗୁଡ଼ିକୁ ସକ୍ରିୟ କରିଥାଏ। "
+"ଆପଣ ଏହା ମଧ୍ଯରୁ ପୂର୍ବରୁ ବ୍ୟାଖ୍ୟ କରାଯାଇଥିବା ଯେକୌଣସି ସର୍ଭରକୁ ବାଛିପାରିବେ, ପୂର୍ବରୁ ବ୍ୟାଖ୍ୟା କରାଯାଇଥିବା ଗୋଟିଏ ସର୍ଭରକୁ "
+"<guibutton>Edit</guibutton> କୁ କ୍ଲିକ କରି ଅଥବା <guibutton>Add</guibutton> କୁ କ୍ଲିକ କରି ଗୋଟିଏ ନୂତନ "
+"ସର୍ଭର ନାମ ଯୋଗ କରନ୍ତୁ। ଆପଣଙ୍କ ତନ୍ତ୍ର NTP ସର୍ଭରକୁ ସମକାଳୀନ କରି ଆରମ୍ଭ କରିନଥାଏ ଯେ ପର୍ଯ୍ୟନ୍ତ ଆପଣ <guibutton>OK</guibutton> "
+"କୁ କ୍ଲିକ ନକରିଛନ୍ତି। <guibutton>OK</guibutton> କୁ କ୍ଲିକ କରିବା ପରେ, ସେହି ସଂରଚନାଟି ସଂରକ୍ଷିତ ହୋଇଥାଏ ଏବଂ NTP ଡେମନଟି "
+"ଆରମ୍ଭ ହୋଇଥାଏ (ଅଥବା ପୁନଚାଳନ ହୋଇଥାଏ ଯଦି ଏହା ପୂର୍ବରୁ ଚାଳୁଥାଏ)।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
+msgid "Time Zone Configuration"
+msgstr "ସମୟ ମଣ୍ଡଳ ସଂରଚନା"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
+msgid "time zone configuration"
+msgstr "ସମୟ ମଣ୍ଡଳ ସଂରଚନା"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, the third tabbed window "
+"that appears is for configuring the system time zone."
+msgstr ""
+"<xref linkend=\"dateconfig-timezone\"/>ରେ ଦର୍ଶାଯାଇଥିବା ପରି, ତୃତୀୟ ଟ୍ୟାବ "
+"ହୋଇଥିବା ୱିଣ୍ଡୋ ଯାହାକି ତନ୍ତ୍ର ସମୟ ମଣ୍ଡଳକୁ ବିନ୍ୟାସ କରିବା ପାଇଁ ଦୃଶ୍ୟମାନ ହୋଇଥାଏ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
+msgid ""
+"To configure the system time zone, click the <guilabel>Time Zone</guilabel> "
+"tab. The time zone can be changed by either using the interactive map or by "
+"choosing the desired time zone from the list below the map. To use the map, "
+"click into it to choose the city specific to your time zone. A red "
+"<guilabel>X</guilabel> appears and the time zone selection changes in the "
+"list below the map. You can use the slider to the left of the map to change "
+"the zoom level."
+msgstr ""
+"ତନ୍ତ୍ର ସମୟ ମଣ୍ଡଳକୁ ବିନ୍ୟାସ କରିବା ପାଇଁ, <guilabel>ସମୟ ମଣ୍ଡଳ</guilabel> ଟ୍ୟାବକୁ କ୍ଲିକ କରନ୍ତୁ। "
+"ପାରସ୍ପରିକ ମ୍ୟାପ ବ୍ୟବହାର କରି ଅଥବା ମ୍ୟାପ ତଳେ ଥିବା ତାଲିକାରୁ ଇଚ୍ଛାମୁତାବକ ମଣ୍ଡଳ ବାଛିକରି ସମୟ "
+"ମଣ୍ଡଳକୁ ପରିବର୍ତ୍ତନ କରାଯାଇପାରିବ। ସେହି ମ୍ୟାପକୁ ବ୍ୟବହାର କରିବା ପାଇଁ, "
+"ଆପଣଙ୍କ ସମୟ ମଣ୍ଡଳ ନିର୍ଦ୍ଦିଷ୍ଟ ସହରକୁ ବାଛି ଏଥିରେ କ୍ଲିକ କରନ୍ତୁ। ଗୋଟିଏ ଲାଲି <guilabel>X</guilabel> "
+"ଦୃଶ୍ୟମାନ ହୋଇଥାଏ ଏବଂ ମ୍ୟାପ ତଳେ ତାଲିକାରେ ସମୟ ମଣ୍ଡଳ ଚୟନ ପରିବର୍ତ୍ତନ ହୋଇଥାଏ। ଆପଣ ସେହି ସର୍ପକର "
+"ଛୋଟବଡ଼ ସ୍ତରକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ମ୍ୟାପର ବାମକୁ ବ୍ୟବହାର କରିପାରିବେ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
+msgid ""
+"Alternatively, you can also use the list below the map. In the same way that "
+"the map lets you choose a region before choosing a city, the list of time "
+"zones is now a treelist, with cities and countries grouped within their "
+"specific continents. Non-geographic time zones have also been added to "
+"address needs in the scientific community."
+msgstr ""
+"ବୈକଳ୍ପିକ ଭାବରେ, ଆପଣ ମ୍ୟାପ ତଳେ ଥିବା ତାଲିକାକୁ ବ୍ୟବହାର କରିପାରିବେ। ଯେପରି ଭାବରେ ମ୍ୟାପଟି "
+"ଆପଣଙ୍କୁ କୌଣସି ସହର ବାଛିବା ପୂର୍ବରୁ ଅଞ୍ଚଳ ବାଛିବାକୁ ଦେଇଥାଏ, ସମୟ ମଣ୍ଡଳର ତାଲିକାଟି ବର୍ତ୍ତମାନ ଗୋଟିଏ "
+"ବୃକ୍ଷ ତାଲିକା ଅଟେ, ସହର ଏବଂ ଦେଶମାନ ସେମାନଙ୍କର ମହାଦେଶ ମଧ୍ଯରେ ଏକତ୍ରିତ ହୋଇଥାନ୍ତି। ଭୂଗଳ ହୀନ ସମୟ "
+"ମଣ୍ଡଳଗୁଡ଼ିକୁ ମଧ୍ଯ ଠିକଣାରେ ଯୋଗ କରାଯାଇଥାଏ ଯେଉଁଥିବା ବୈଜ୍ଞାନିକ ସମ୍ପ୍ରଦାୟ ଆବଶ୍ୟକ ହୋଇଥାଏ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
+msgid "Click <guibutton>OK</guibutton> to apply the changes and exit the program."
+msgstr ""
+"ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ୍ରୟୋଗ କରିବା ପାଁଇ ଏବଂ ପ୍ରଗ୍ରାମକୁ ପ୍ରସ୍ଥାନ କରିବା ପାଇଁ "
+"<guibutton>OK</guibutton>କୁ କ୍ଲିକ କରନ୍ତୁ।"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
+msgid "Timezone Properties"
+msgstr "ସମୟ ମଣ୍ଡଳ ଗୁଣଧର୍ମ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
+msgid ""
+"If your system clock is set to use UTC, select the <guibutton>System clock "
+"uses UTC</guibutton> option. UTC stands for the <firstterm>Universal Time, "
+"Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
+"zones are determined by adding or subtracting from the UTC time."
+msgstr ""
+"ଯଦି ଆପଣଙ୍କର ତନ୍ତ୍ର ଘଡ଼ି UTC ବ୍ୟବହାର କରିବା ପାଇଁ ସେଟ କରାଯାଇଥାଏ, ତେବେ <guibutton>System clock "
+"uses UTC</guibutton> ବିକଳ୍ପକୁ ବାଛନ୍ତୁ। UTC <firstterm>Universal Time, Coordinated</firstterm> "
+"ପାଇଁ ଲିଖିତ ହୋଇଥାଏ, ଏବଂ Greenwich Mean Time (GMT) ନାମରେ ମଧ୍ଯ ପରିଚିତ। "
+"ଅନ୍ୟାନ୍ୟ ସମୟ ମଣ୍ଡଳଗୁଡ଼ିକ UTC ସମୟରୁ ଯୋଗକରି ଅଥବା ଫେଡ଼ାଣ କରି ନିର୍ଦ୍ଧାରଣ କରାଯାଇଥାଏ।"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "ମନୋଜ କୁମାର ଗିରି <mgiri@redhat.com>"
+

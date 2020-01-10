@@ -1,0 +1,399 @@
+# Serbian translations for system-config-date-docs
+# Copyright (C) 2008 Red Hat, Inc.
+# This file is distributed under the same license as the system-config-date-docs package.
+# Nebojša Kamber <kamber@nebojsa.in.rs>, 2009.
+# Miloš Komarčević <kmilos@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-date-docs\n"
+"POT-Creation-Date: 2009-06-10 13:09+0200\n"
+"PO-Revision-Date: 2009-06-22 22:55+0100\n"
+"Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
+"Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
+msgid "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+msgstr "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+msgid ""
+"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+msgstr ""
+"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
+msgid "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
+msgid "Time and Date Properties Tool"
+msgstr "Алатка за својства времена и датума"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2007-11-22"
+msgstr "2007-11-22"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Initial revision"
+msgstr "Првобитна верзија"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-17"
+msgstr "2008-01-17"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make DocBook XML validate properly"
+msgstr "Успешна провера DocBook XML исправности"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-18"
+msgstr "2008-01-18"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make document abstract external"
+msgstr "Издвајање резимеа документа"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.3"
+msgstr "1.0.3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Use menuchoice elements where applicable"
+msgstr "Коришћење елемената менија где је то могуће"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
+msgid ""
+"The <application>Time and Date Properties Tool</application> allows the user "
+"to change the system date and time, to configure the time zone used by the "
+"system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
+"the system clock with a time server."
+msgstr ""
+"<application>Алатка за својства времена и датума</application> пружа "
+"могућност кориснику да мења системско време и датум, да подеси временску "
+"зону коју систем користи, као и да подеси сервис протокола мрежног времена "
+"(NTP) ради синхронизације системског часовника са сервером времена."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
+msgid "timetool"
+msgstr "timetool"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
+msgid "system-config-date"
+msgstr "system-config-date"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
+msgid "system-config-time"
+msgstr "system-config-time"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
+msgid "dateconfig"
+msgstr "dateconfig"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the Time and Date Properties Tool. There are three "
+"ways to start the application:"
+msgstr ""
+"Морате имати покренут <application>Икс</application> систем прозора и "
+"поседовати root овлашћења ради употребе алатке за својства времена и датума. "
+"Постоје три начина за покретање овог програма:"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
+"Time</guimenuitem></menuchoice>"
+msgstr ""
+"Са радне површине, идите на <menuchoice><guimenu>главни мени на панелу (мени "
+"са иконом „f“)</guimenu><guisubmenu>Систем</"
+"guisubmenu><guisubmenu>Администрација</guisubmenu><guimenuitem>Датум и "
+"време</guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
+msgid ""
+"From the desktop, right-click on the time in the toolbar and select "
+"<guimenuitem>Adjust Date and Time</guimenuitem>."
+msgstr ""
+"Са радне површине, кликните десним дугметом миша време на траци са алаткама "
+"и изаберите <guimenuitem>Подеси датум и време</guimenuitem>."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
+msgid ""
+"Type the command <command>system-config-date</command>, <command>system-"
+"config-time</command>, or <command>dateconfig</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+"Укуцајте наредбу <command>system-config-date</command>, <command>system-"
+"config-time</command>, или <command>dateconfig</command> при одзиву "
+"командног окружења (нпр. у <application>XTerm</application> или "
+"<application>GNOME</application> терминалу)."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
+msgid "Time and Date Properties"
+msgstr "Својства датума и времена"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "time configuration"
+msgstr "подешавање времена"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+msgid "date configuration"
+msgstr "подешавање датума"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, the first tabbed "
+"window that appears is for configuring the system date and time."
+msgstr ""
+"Као што приказује <xref linkend=\"dateconfig-time-date\"/>, први прозор који "
+"се појави у низу служи подешавању системског времена и датума."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
+msgid ""
+"To change the date, use the arrows to the left and right of the month to "
+"change the month, use the arrows to the left and right of the year to change "
+"the year, and click on the day of the week to change the day of the week."
+msgstr ""
+"Да бисте променили датум, користите стрелице са леве и десне стране назива "
+"месеца за промену месеца, користите стрелице са леве и десне стране броја "
+"године за промену године, и кликните на дан у недељи за промену дана у "
+"недељи."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
+msgid ""
+"To change the time, use the up and down arrow buttons beside the "
+"<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
+"<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
+msgstr ""
+"Да бисте променили време, користите дугмад са стрелицама на горе и на доле, "
+"поред одговарајућих елемената <guilabel>Час</guilabel>, <guilabel>Минут</"
+"guilabel>, и <guilabel>Секунд</guilabel> у одељку <guilabel>Време</guilabel>."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
+msgid ""
+"Alternatively, you can use the keyboard to change date and time. Use "
+"<keycap>Tab</keycap> and <keycombo><keycap>Shift</keycap><keycap>Tab</"
+"keycap></keycombo> to move between the widgets. In the calendar widget, you "
+"can use <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> and "
+"<keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> to change "
+"the year, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> "
+"and <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> to "
+"change the month and the arrow keys and <keycap>Space</keycap> to choose and "
+"set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
+"and <keycap>Down</keycap> to change the values."
+msgstr ""
+"Алтернативно, можете променити датум и време коришћењем тастатуре. Притиском "
+"на <keycap>Tab</keycap> и <keycombo><keycap>Shift</keycap><keycap>Tab</"
+"keycap></keycombo> се пребацујете са једног елемента графичког окружења на "
+"други. У календарском елементу, измена текуће године се врши притиском на "
+"<keycombo><keycap>Ctrl</keycap><keycap>Горе</keycap></keycombo> и "
+"<keycombo><keycap>Ctrl</keycap><keycap>Доле</keycap></keycombo>, измена "
+"текућег месеца са <keycombo><keycap>Ctrl</keycap><keycap>Лево</keycap></"
+"keycombo> и <keycombo><keycap>Ctrl</keycap><keycap>Десно</keycap></"
+"keycombo>, а промену дана у месецу вршите стрелицама на тастатури и "
+"притиском на <keycap>Space</keycap> када означите жељени дан. Код елемената "
+"час, минут и секунд, користите <keycap>Горе</keycap> и <keycap>Доле</keycap> "
+"за мењање вредности."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
+msgid ""
+"Clicking the <guibutton>OK</guibutton> button applies any changes made to "
+"the date and time, the NTP daemon settings, and the time zone settings. It "
+"also exits the program."
+msgstr ""
+"Притиском на дугме <guibutton>У реду</guibutton> евентуалне измене у текућем "
+"датуму времену, подешавањима сервиса протокола мрежног времена или "
+"временској зони бивају сачуване. Истовремено се напушта програм."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
+msgid "Network Time Protocol (NTP) Properties"
+msgstr "Својства протокола мрежног времена (NTP)"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "synchronize with NTP server"
+msgstr "синхронизација са NTP сервером"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "Network Time Protocol"
+msgstr "Протокол мрежног времена"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "NTP"
+msgstr "NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "configuring"
+msgstr "подешавање"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
+msgid "ntpd"
+msgstr "ntpd"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
+"that appears is for configuring NTP."
+msgstr ""
+"Као што приказује <xref linkend=\"dateconfig-ntp\"/>, други прозор који се "
+"појави у низу је за подешавање NTP-а."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
+msgid "NTP Properties"
+msgstr "Својства NTP-а"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+msgid ""
+"The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
+"remote time server or time source. The application allows you to configure "
+"an NTP daemon to synchronize your system clock with a remote server. To "
+"enable this feature, select <guibutton>Enable Network Time Protocol</"
+"guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other "
+"options. You can choose one of the predefined servers, edit a predefined "
+"server by clicking the <guibutton>Edit</guibutton> or add a new server name "
+"by clicking <guibutton>Add</guibutton>. Your system does not start "
+"synchronizing with the NTP server until you click <guibutton>OK</guibutton>. "
+"After clicking <guibutton>OK</guibutton>, the configuration is saved and the "
+"NTP daemon is started (or restarted if it is already running)."
+msgstr ""
+"Сервис протокола мрежног времена (NTP) синхронизује системски часовник са "
+"удаљеним сервером времена или другим извором. Програм вам омогућава да "
+"подесите NTP сервис да синхронизује системски часовник са удаљеним сервером. "
+"Како бисте активирали ову функцију, изаберите <guibutton>Укључи Протокол "
+"мрежног времена</guibutton>. Тиме се активира листа <guilabel>NTP сервери</"
+"guilabel>, као и остале опције. Можете одабрати неки од унапред дефинисаних "
+"сервера, изменити поставке унапред дефинисаног сервера притиском на "
+"<guibutton>Уреди</guibutton> или додати назив другог сервера притиском на "
+"<guibutton>Додај</guibutton>. Ваш систем не отпочиње синхронизацију са NTP "
+"сервером све док не притиснете <guibutton>У реду</guibutton>. Након кликтања "
+"на <guibutton>У реду</guibutton>, подешавања бивају сачувана и NTP сервис "
+"покренут (односно поново покренут ако је већ радио)."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
+msgid "Time Zone Configuration"
+msgstr "Подешавања временске зоне"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
+msgid "time zone configuration"
+msgstr "подешавања временске зоне"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, the third tabbed window "
+"that appears is for configuring the system time zone."
+msgstr ""
+"Као што приказује <xref linkend=\"dateconfig-timezone\"/>, трећи прозор који "
+"се појави у низу служи подешавању системске временске зоне."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
+msgid ""
+"To configure the system time zone, click the <guilabel>Time Zone</guilabel> "
+"tab. The time zone can be changed by either using the interactive map or by "
+"choosing the desired time zone from the list below the map. To use the map, "
+"click into it to choose the city specific to your time zone. A red "
+"<guilabel>X</guilabel> appears and the time zone selection changes in the "
+"list below the map. You can use the slider to the left of the map to change "
+"the zoom level."
+msgstr ""
+"Да бисте подесили системску временску зону, кликните заглавље "
+"<guilabel>Временска зона</guilabel>. Временска зона се може подесити било "
+"коришћењем интерактивне мапе, било одабиром временске зоне са листе испод "
+"мапе. Мапа се користи тако што кликнете на град који се налази у вашој "
+"временској зони. Црвени <guilabel>X</guilabel> се појављује, а временска "
+"зона бива одабрана у листи испод мапе. Користите клизач да бисте променили "
+"ниво увећања."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
+msgid ""
+"Alternatively, you can also use the list below the map. In the same way that "
+"the map lets you choose a region before choosing a city, the list of time "
+"zones is now a treelist, with cities and countries grouped within their "
+"specific continents. Non-geographic time zones have also been added to "
+"address needs in the scientific community."
+msgstr ""
+"Алтернативно, можете користити листу за одабир испод мапе. Попут мапе, која "
+"вам нуди да одаберете регион пре одабира града, тако је и листа градова и "
+"држава и њихових временских зона груписана према континентима. Наведене су и "
+"негеографске временске зоне, пошто се користе у научним круговима."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to apply the changes and exit the program."
+msgstr ""
+"Кликните <guibutton>У реду</guibutton> да сачувате измене и изађете из "
+"програма."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
+msgid "Timezone Properties"
+msgstr "Својства временске зоне"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
+msgid ""
+"If your system clock is set to use UTC, select the <guibutton>System clock "
+"uses UTC</guibutton> option. UTC stands for the <firstterm>Universal Time, "
+"Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
+"zones are determined by adding or subtracting from the UTC time."
+msgstr ""
+"Ако је ваш системски часовник подешен да користи UTC, изаберите опцију "
+"<guibutton>Системски часовник користи UTC</guibutton>. UTC је енглеска "
+"скраћеница за <firstterm>координирано универзално време</firstterm>, познато "
+"и под називом средње време по Гриничу (GMT). Остале временске зоне се "
+"одређују додавањем или одузимањем одређеног броја часова од UTC времена."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+"Nebojša Kamber <kamber@nebojsa.in.rs>, 2009.\n"
+"Miloš Komarčević <kmilos@gmail.com>, 2009."

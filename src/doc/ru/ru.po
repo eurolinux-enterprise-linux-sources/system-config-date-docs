@@ -1,0 +1,250 @@
+# translation of ru.po to Russian
+# Copyright (C) 2006, 2008, 2009 Free Software Foundation, Inc.
+#
+#
+# Alexey Kostyuk <unitoff@gmail.com>, 2009.
+# Yulia Poyarkova <yulia.poyarkova@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"POT-Creation-Date: 2009-06-10 13:09+0200\n"
+"PO-Revision-Date: 2009-09-14 16:44+1000\n"
+"Last-Translator: Yulia Poyarkova <yulia.poyarkova@redhat.com>\n"
+"Language-Team: Russian <fedora-trans-ru@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
+msgid "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+msgstr "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+msgid "@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+msgstr "@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
+msgid "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
+msgid "Time and Date Properties Tool"
+msgstr "Средство настройки Даты и Времени"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2007-11-22"
+msgstr "2007-11-22"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Initial revision"
+msgstr "Первоначальная версия"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-17"
+msgstr "2008-01-17"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make DocBook XML validate properly"
+msgstr "Выполнить проверку DocBook XML"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-18"
+msgstr "2008-01-18"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make document abstract external"
+msgstr "Сделать реферат внешним"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.3"
+msgstr "1.0.3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Use menuchoice elements where applicable"
+msgstr "Используйте выбор из меню, где это возможно"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
+msgid "The <application>Time and Date Properties Tool</application> allows the user to change the system date and time, to configure the time zone used by the system, and to setup the Network Time Protocol (NTP) daemon to synchronize the system clock with a time server."
+msgstr "<application>Средство настройки Даты и Времени</application> позволяет пользователю изменить системную дату и время, настроить часовой пояс, используемый системой и настроить демон Сетевого Протокола синхронизации Времени (NTP) для синхронизации системных часов с сервером времени."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
+msgid "timetool"
+msgstr "timetool"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
+msgid "system-config-date"
+msgstr "system-config-date"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
+msgid "system-config-time"
+msgstr "system-config-time"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
+msgid "dateconfig"
+msgstr "dateconfig"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
+msgid "You must be running the <application>X</application> Window System and have root privileges to use the Time and Date Properties Tool. There are three ways to start the application:"
+msgstr "Вы должны запустить Оконную Систему <application>X</application> и иметь привилегии суперпользователя для использования Средства Настройки Даты и Времени. Есть три способа запуска приложения:"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
+msgid "From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the menu with the \"f\" icon)</guimenu><guisubmenu>System</guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; Time</guimenuitem></menuchoice>"
+msgstr "На рабочем столе, перейдите к <menuchoice><guimenu>Главному меню на панели (меню с иконкой в виде буквы \"f\")</guimenu><guisubmenu>Система</guisubmenu><guisubmenu>Администрирование</guisubmenu><guimenuitem>Дата и время</guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
+msgid "From the desktop, right-click on the time in the toolbar and select <guimenuitem>Adjust Date and Time</guimenuitem>."
+msgstr "На рабочем столе, правым щелчком мышки по часам на панели затем выбрать  <guimenuitem>Установить Дату и Время</guimenuitem>."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
+msgid "Type the command <command>system-config-date</command>, <command>system-config-time</command>, or <command>dateconfig</command> at a shell prompt (for example, in an <application>XTerm</application> or a <application>GNOME</application> terminal)."
+msgstr "Введите команду <command>system-config-date</command>, <command>system-config-time</command>, или <command>dateconfig</command> в строке интерпретатора команд (например в <application>XTerm</application> или в терминале <application>GNOME</application>)."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
+msgid "Time and Date Properties"
+msgstr "Настройки Времени и Даты"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "time configuration"
+msgstr "настройка времени"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+msgid "date configuration"
+msgstr "настройка даты"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+msgid "As shown in <xref linkend=\"dateconfig-time-date\"/>, the first tabbed window that appears is for configuring the system date and time."
+msgstr "Как показано здесь <xref linkend=\"dateconfig-time-date\"/>, первая закладка предназначена для установки системной даты и времени."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
+msgid "To change the date, use the arrows to the left and right of the month to change the month, use the arrows to the left and right of the year to change the year, and click on the day of the week to change the day of the week."
+msgstr "Для изменения даты, необходимо: использовать стрелки с левой и с правой стороны, для изменения месяца, стрелки с левой и с правой стороны и для смены года и щелчок мыши по дню недели для изменения дня недели."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
+msgid "To change the time, use the up and down arrow buttons beside the <guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and <guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
+msgstr "Чтобы изменить время, используйте стрелки вверх и вниз рядом с кнопками <guilabel>Часы</guilabel>, <guilabel>Минуты</guilabel>, и <guilabel>Секунды</guilabel> в секции <guilabel>Время</guilabel>."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
+msgid "Alternatively, you can use the keyboard to change date and time. Use <keycap>Tab</keycap> and <keycombo><keycap>Shift</keycap><keycap>Tab</keycap></keycombo> to move between the widgets. In the calendar widget, you can use <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> and <keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> to change the year, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> and <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> to change the month and the arrow keys and <keycap>Space</keycap> to choose and set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> and <keycap>Down</keycap> to change the values."
+msgstr "Кроме того, можно изменять дату и время с помощью клавиатуры. С помощью клавиш <keycap>Tab</keycap> и <keycombo><keycap>Shift</keycap><keycap>Tab</keycap></keycombo> можно перемещаться между элементами интерфейса. В календаре можно изменить год с помощью клавиш <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> и <keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo>, изменить месяц клавишами <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> и <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo>, а клавишами со стрелками и клавишей <keycap>Пробел</keycap> можно выбрать и установить дату. В полях для часов, минут и секунд значения можно изменить клавишами <keycap>Up</keycap> и <keycap>Down</keycap>."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
+msgid "Clicking the <guibutton>OK</guibutton> button applies any changes made to the date and time, the NTP daemon settings, and the time zone settings. It also exits the program."
+msgstr "Нажатие на кнопку <guibutton>OK</guibutton> применяет все изменения в настройках даты, времени, демона NTP, часового пояса и закрывает программу."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
+msgid "Network Time Protocol (NTP) Properties"
+msgstr "Настройка Сетевого Протокола синхронизации Времени (NTP)"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "synchronize with NTP server"
+msgstr "синхронизировать с сервером NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "Network Time Protocol"
+msgstr "Сетевой Протокол синхронизации Времени"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "NTP"
+msgstr "NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "configuring"
+msgstr "настройка"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
+msgid "ntpd"
+msgstr "ntpd"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
+msgid "As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window that appears is for configuring NTP."
+msgstr "Как показано здесь <xref linkend=\"dateconfig-ntp\"/>, вторая закладка предназначена для настройки демона NTP."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
+msgid "NTP Properties"
+msgstr "Настройки NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+msgid "The Network Time Protocol (NTP) daemon synchronizes the system clock with a remote time server or time source. The application allows you to configure an NTP daemon to synchronize your system clock with a remote server. To enable this feature, select <guibutton>Enable Network Time Protocol</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other options. You can choose one of the predefined servers, edit a predefined server by clicking the <guibutton>Edit</guibutton> or add a new server name by clicking <guibutton>Add</guibutton>. Your system does not start synchronizing with the NTP server until you click <guibutton>OK</guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is saved and the NTP daemon is started (or restarted if it is already running)."
+msgstr "NTP демон синхронизирует системные часы с удаленным сервером или источником времени. Приложение позволяет вам настроить NTP демон для синхронизации системных часов с удаленным сервером. Чтобы включить эту возможность, выберете <guibutton>Включить NTP</guibutton>. Это сделает доступным список <guilabel>NTP Сервера</guilabel> и другие настройки. Вы можете выбрать один из  предопределенных серверов, изменить сервер нажатием на кнопку <guibutton>Изменить</guibutton> или добавить новый сервер, нажав <guibutton>Добавить</guibutton>. Ваша система не начнет синхронизацию с NTP сервером, пока вы не нажмете кнопку <guibutton>OK</guibutton>. После нажатия кнопки <guibutton>OK</guibutton>, конфигурация сохраняется и  NTP демон запускается (или перезапускается, если уже был запущен)."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
+msgid "Time Zone Configuration"
+msgstr "Конфигурация Часового пояса"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
+msgid "time zone configuration"
+msgstr "конфигурация часового пояса"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+msgid "As shown in <xref linkend=\"dateconfig-timezone\"/>, the third tabbed window that appears is for configuring the system time zone."
+msgstr "Как показано здесь <xref linkend=\"dateconfig-timezone\"/>, третья закладка предназначена для настройки часового пояса."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
+msgid "To configure the system time zone, click the <guilabel>Time Zone</guilabel> tab. The time zone can be changed by either using the interactive map or by choosing the desired time zone from the list below the map. To use the map, click into it to choose the city specific to your time zone. A red <guilabel>X</guilabel> appears and the time zone selection changes in the list below the map. You can use the slider to the left of the map to change the zoom level."
+msgstr "Чтобы настроить часовой пояс, выберете закладку <guilabel>Часовой пояс</guilabel>. Часовой пояс может быть изменен с использованием интерактивной карты или выбором желаемого часового пояса из списка под картой. Для использования карты, выберете на ней город, который входит в ваш часовой пояс. Появится красный <guilabel>X</guilabel> и часовой пояс отобразится в списке под картой. Вы можете использовать бегунок слева от карты для изменения масштаба."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
+msgid "Alternatively, you can also use the list below the map. In the same way that the map lets you choose a region before choosing a city, the list of time zones is now a treelist, with cities and countries grouped within their specific continents. Non-geographic time zones have also been added to address needs in the scientific community."
+msgstr "Кроме того, вы можете использовать список под картой. Так же как карта позволяет вам выбрать регион до выбора города, список часовых поясов представляет собой дерево с городами и странами, сгруппированными по континентам. Не географические часовые пояса также присутствуют для удовлетворения потребностей ученого сообщества."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
+msgid "Click <guibutton>OK</guibutton> to apply the changes and exit the program."
+msgstr "Нажмите <guibutton>OK</guibutton> для принятия изменений и выхода из программы"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
+msgid "Timezone Properties"
+msgstr "Настройки часового пояса"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
+msgid "If your system clock is set to use UTC, select the <guibutton>System clock uses UTC</guibutton> option. UTC stands for the <firstterm>Universal Time, Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time zones are determined by adding or subtracting from the UTC time."
+msgstr "Если ваши системные часы установлены в UTC, установите флажок <guibutton>Системные часы установлены в UTC</guibutton>. UTC расшифровывается как универсальное координированное время, также известное как время по Гринвичу (GMT). Другие часовые пояса определяются путем добавления или вычитания часов из времени UTC."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "Alexey Kostyuk <unitoff@gmail.com>, 2009."
+

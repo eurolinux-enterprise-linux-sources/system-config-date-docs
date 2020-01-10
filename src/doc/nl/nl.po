@@ -1,0 +1,393 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: systeem-config-date docs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-10 13:09+0200\n"
+"PO-Revision-Date: 2009-06-11 12:07+0200\n"
+"Last-Translator: Geert Warrink <geert.warrink@onsnet.nu>\n"
+"Language-Team: English <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
+msgid "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+msgstr "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+msgid ""
+"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+msgstr ""
+"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
+msgid "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
+msgid "Time and Date Properties Tool"
+msgstr "Tijd en datum eigenschappen gereedschap"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2007-11-22"
+msgstr "2007-11-22"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Initial revision"
+msgstr "Eerste bewerking"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-17"
+msgstr "2008-01-17"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make DocBook XML validate properly"
+msgstr "Zorg dat DocBook XML correct valideert"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-18"
+msgstr "2008-01-18"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make document abstract external"
+msgstr "Maak de document samenvatting extern"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.3"
+msgstr "1.0.3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Use menuchoice elements where applicable"
+msgstr "Gebruik menukeuze elementen waar van toepassing"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
+msgid ""
+"The <application>Time and Date Properties Tool</application> allows the user "
+"to change the system date and time, to configure the time zone used by the "
+"system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
+"the system clock with a time server."
+msgstr ""
+"Het <application>Tijd en datum eigenschappen gereedschap</application> staat "
+"de gebruiker toe om de systeem datum en tijd te veranderen, om de tijdzone "
+"gebruikt door het systeem te configureren, en om de Network Time Protocol "
+"(NTP) daemon in te stellen om de systeemklok te synchroniseren met een "
+"tijdserver."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
+msgid "timetool"
+msgstr "tijd gereedschap"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
+msgid "system-config-date"
+msgstr "system-config-date"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
+msgid "system-config-time"
+msgstr "system-config-time"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
+msgid "dateconfig"
+msgstr "dateconfig"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the Time and Date Properties Tool. There are three "
+"ways to start the application:"
+msgstr ""
+"Je moet het <application>X</application> window systeem draaien en root "
+"privileges hebben om het Tijd en datum eigenschappen gereedschap te "
+"gebruiken. Er zijn drie manieren om de toepassing op te starten:"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
+"Time</guimenuitem></menuchoice>"
+msgstr ""
+"Vanaf de desktop, ga je naar <menuchoice><guimenu>het hoofd menu op het "
+"paneel (het menu met het \"f\" icoon)</guimenu><guisubmenu>Systeem</"
+"guisubmenu><guisubmenu>Beheer</guisubmenu><guimenuitem>Datum &amp; tijd</"
+"guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
+msgid ""
+"From the desktop, right-click on the time in the toolbar and select "
+"<guimenuitem>Adjust Date and Time</guimenuitem>."
+msgstr ""
+"Vanaf de desktop, klik rechts op de tijd in de gereedschapsbalk en selecteer "
+"<guimenuitem>Datum &amp; tijd wijzigen</guimenuitem>."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
+msgid ""
+"Type the command <command>system-config-date</command>, <command>system-"
+"config-time</command>, or <command>dateconfig</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+"Tik het commando <command>system-config-date</command>, <command>system-"
+"config-time</command>, of <command>dateconfig</command> in op de shell "
+"prompt (bijvoorbeeld, in een <application>XTerm</application>of een "
+"<application>GNOME</application> terminal)."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
+msgid "Time and Date Properties"
+msgstr "Tijd en datum eigenschappen"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "time configuration"
+msgstr "tijd instelling"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+msgid "date configuration"
+msgstr "datum instelling"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, the first tabbed "
+"window that appears is for configuring the system date and time."
+msgstr ""
+"Zoals getoond in <xref linkend=\"dateconfig-time-date\"/>, is de eerste "
+"scherm tab dat verschijnt voor het instellen van de systeem datum en tijd."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
+msgid ""
+"To change the date, use the arrows to the left and right of the month to "
+"change the month, use the arrows to the left and right of the year to change "
+"the year, and click on the day of the week to change the day of the week."
+msgstr ""
+"Om de datum te veranderen, gebruik je de pijlen links en rechts van de maand "
+"om de maand te veranderen, gebruik je de pijlen links en rechts van het jaar "
+"om het jaar te veranderen, en klik je op de dag van de week om de dag van de "
+"week te veranderen."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
+msgid ""
+"To change the time, use the up and down arrow buttons beside the "
+"<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
+"<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
+msgstr ""
+"Om de tijd te veranderen, gebruik de omhoog en omlaag pijlknoppen naast "
+"<guilabel>Uur</guilabel>, <guilabel>Minuut</guilabel>, en <guilabel>Seconde</"
+"guilabel> in de <guilabel>Tijd</guilabel> sectie."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
+msgid ""
+"Alternatively, you can use the keyboard to change date and time. Use "
+"<keycap>Tab</keycap> and <keycombo><keycap>Shift</keycap><keycap>Tab</"
+"keycap></keycombo> to move between the widgets. In the calendar widget, you "
+"can use <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> and "
+"<keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> to change "
+"the year, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> "
+"and <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> to "
+"change the month and the arrow keys and <keycap>Space</keycap> to choose and "
+"set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
+"and <keycap>Down</keycap> to change the values."
+msgstr ""
+"Je kunt ook het toetsenbord gebruiken om de datum en tijd te veranderen. "
+"Gebruik <keycap>Tab</keycap> en <keycombo><keycap>Shift</keycap><keycap>Tab</"
+"keycap></keycombo> om langs de invoervelden te gaan. In het kalender veld "
+"kun je <keycombo><keycap>Ctrl</keycap><keycap>Omhoog</keycap></keycombo> en "
+"<keycombo><keycap>Ctrl</keycap><keycap>Omlaag</keycap></keycombo> gebruiken "
+"om het jaar te veranderen, <keycombo><keycap>Ctrl</keycap><keycap>Links</"
+"keycap></keycombo> en <keycombo><keycap>Ctrl</keycap><keycap>Rechts</"
+"keycap></keycombo> om de maand te veranderen \n"
+"en de pijltjes toesten en <keycap>Space</keycap> om de datum in te stellen. "
+"In de uur, minuut en seconde velden gebruik je <keycap>Omhoog</keycap> en "
+"<keycap>Omlaag</keycap> om de instellingen te veranderen."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
+msgid ""
+"Clicking the <guibutton>OK</guibutton> button applies any changes made to "
+"the date and time, the NTP daemon settings, and the time zone settings. It "
+"also exits the program."
+msgstr ""
+"Klikken op de <guibutton>OK</guibutton> knop brengt een gemaakte verandering "
+"in de tijd en datum, de NTP daemon instelling, of de tijdzone instelling "
+"aan. Hiermee wordt ook het programma afgesloten."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
+msgid "Network Time Protocol (NTP) Properties"
+msgstr "Netwerk Tijd Protocol (NTP) eigenschappen"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "synchronize with NTP server"
+msgstr "synchroniseer met NTP server"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "Network Time Protocol"
+msgstr "Netwerk tijd protocol"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "NTP"
+msgstr "NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "configuring"
+msgstr "instellen"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
+msgid "ntpd"
+msgstr "ntpd"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
+"that appears is for configuring NTP."
+msgstr ""
+"Zoals getoond in <xref linkend=\"dateconfig-ntp\"/>, is de tweede scherm tab "
+"dat verschijnt voor het instellen van NTP."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
+msgid "NTP Properties"
+msgstr "NTP eigenschappen"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+msgid ""
+"The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
+"remote time server or time source. The application allows you to configure "
+"an NTP daemon to synchronize your system clock with a remote server. To "
+"enable this feature, select <guibutton>Enable Network Time Protocol</"
+"guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other "
+"options. You can choose one of the predefined servers, edit a predefined "
+"server by clicking the <guibutton>Edit</guibutton> or add a new server name "
+"by clicking <guibutton>Add</guibutton>. Your system does not start "
+"synchronizing with the NTP server until you click <guibutton>OK</guibutton>. "
+"After clicking <guibutton>OK</guibutton>, the configuration is saved and the "
+"NTP daemon is started (or restarted if it is already running)."
+msgstr ""
+"De Netwerk Tijd Protocol (NTP) daemon synchroniseert de systeemklok met een "
+"tijdserver op afstand of tijdbron. De toepassing staat je toe om een NTP "
+"daemon in te stellen om je systeemklok te synchroniseren met een externe "
+"server. Om deze eigenschap aan te zetten selecteer je <guibutton>Netwerk "
+"Tijd Protocol gebruiken</guibutton>. Dit activeert de <guilabel>NTP-servers</"
+"guilabel> lijst en andere opties. Je kunt een van de voorgedefinieerde "
+"servers kiezen, een voorgedefinieerde server bewerken door op "
+"<guibutton>Bewerken</guibutton> te klikken of een nieuwe server naam "
+"toevoegen door op <guibutton>Toevoegen</guibutton> te klikken. Je systeem "
+"begint met pas met synchroniseren als je op <guibutton>OK</guibutton> klikt. "
+"Na het klikken op <guibutton>OK</guibutton> wordt de instelling opgeslagen "
+"en de NTP daemon wordt gestart (of opnieuw gestart als hij al draait)."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
+msgid "Time Zone Configuration"
+msgstr "Tijdzone instelling"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
+msgid "time zone configuration"
+msgstr "tijdzone instelling"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, the third tabbed window "
+"that appears is for configuring the system time zone."
+msgstr ""
+"Zoals getoond in <xref linkend=\"dateconfig-timezone\"/>, is de derde scherm "
+"tab dat verschijn voor het instellen van de tijdzone."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
+msgid ""
+"To configure the system time zone, click the <guilabel>Time Zone</guilabel> "
+"tab. The time zone can be changed by either using the interactive map or by "
+"choosing the desired time zone from the list below the map. To use the map, "
+"click into it to choose the city specific to your time zone. A red "
+"<guilabel>X</guilabel> appears and the time zone selection changes in the "
+"list below the map. You can use the slider to the left of the map to change "
+"the zoom level."
+msgstr ""
+"Om de tijdzone van het systeem in te stellen, klik je op de "
+"<guilabel>Tijdzone</guilabel> tab. De tijdzone kan veranderd worden door, of "
+"de interactieve kaart te gebruiken, of door de gewenste tijdzone te kiezen "
+"in de lijst onder de kaart. Om de kaart te gebruiken klik je er in om de "
+"stad specifiek voor je tijdzone te kiezen. Een rode <guilabel>X</guilabel> "
+"verschijnt en de tijdzone selectie verandert in de lijst onder de kaart. Je "
+"kunt de schuifknop links van de kaart gebruiken om het detail nivo te "
+"veranderen."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
+msgid ""
+"Alternatively, you can also use the list below the map. In the same way that "
+"the map lets you choose a region before choosing a city, the list of time "
+"zones is now a treelist, with cities and countries grouped within their "
+"specific continents. Non-geographic time zones have also been added to "
+"address needs in the scientific community."
+msgstr ""
+"Als alternatief kun je ook de lijst onder de kaart gebruiken. Op dezelfde "
+"manier als de kaart die je eerst een gebied laat kiezen en daarna een stad, "
+"is de lijst van tijdzones nu een boom, met steden en landen gegroepeerd in "
+"hun specifieke continenten. Niet-geografische tijdzones zijn ook toegevoegd "
+"om te voldoen aan de behoefte van de wetenschappelijke gemeenschap."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to apply the changes and exit the program."
+msgstr ""
+"Klik op <guibutton>OK</guibutton> om de veranderingen aan te brengen en "
+"verlaat het programma."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
+msgid "Timezone Properties"
+msgstr "Tijdzone eigenschappen"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
+msgid ""
+"If your system clock is set to use UTC, select the <guibutton>System clock "
+"uses UTC</guibutton> option. UTC stands for the <firstterm>Universal Time, "
+"Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
+"zones are determined by adding or subtracting from the UTC time."
+msgstr ""
+"Als je systeemklok is ingesteld om UTC te gebruiken, selecteer je de "
+"<guibutton>Systeemklok gebruikt UTC</guibutton> optie. UTC betekent "
+"<firstterm>Universal Time, Coordinated</firstterm>, ook bekend als Greenwich "
+"Mean Time (GMT). Andere tijdzones worden bepaald door het optellen of "
+"aftrekken van de UTC tijd."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "Geert Warrink <geert.warrink@onsnet.nu> 2009"

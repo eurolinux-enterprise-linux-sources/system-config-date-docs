@@ -1,0 +1,573 @@
+# translation of system-config-date.tip.as.po to Assamese
+# This file is distributed under the same license as the system-config-date package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Amitakhya Phukan <amitakhya.phukan@gmail.com>, 2006.
+# Amitakhya Phukan <aphukan@redhat.com>, 2006, 2007.
+# Amitakhya Phukan <aphukan@fedoraproject.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-date.tip.as\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-10 13:09+0200\n"
+"PO-Revision-Date: 2008-03-31 16:31+0530\n"
+"Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
+"Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1)\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
+msgid "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+msgid ""
+"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
+msgid "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
+#, fuzzy
+msgid "Time and Date Properties Tool"
+msgstr "দিন/সময়ৰ বৈশিষ্ট "
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2007-11-22"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Initial revision"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.1"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-17"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make DocBook XML validate properly"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.2"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-18"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make document abstract external"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.3"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-03-12"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Use menuchoice elements where applicable"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
+msgid ""
+"The <application>Time and Date Properties Tool</application> allows the user "
+"to change the system date and time, to configure the time zone used by the "
+"system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
+"the system clock with a time server."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
+msgid "Red Hat"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
+msgid "timetool"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
+msgid "system-config-date"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
+msgid "system-config-time"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
+msgid "dateconfig"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the Time and Date Properties Tool. There are three "
+"ways to start the application:"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
+"Time</guimenuitem></menuchoice>"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
+msgid ""
+"From the desktop, right-click on the time in the toolbar and select "
+"<guimenuitem>Adjust Date and Time</guimenuitem>."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
+msgid ""
+"Type the command <command>system-config-date</command>, <command>system-"
+"config-time</command>, or <command>dateconfig</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
+#, fuzzy
+msgid "Time and Date Properties"
+msgstr "দিন/সময়ৰ বৈশিষ্ট "
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "time configuration"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+msgid "date configuration"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, the first tabbed "
+"window that appears is for configuring the system date and time."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
+msgid ""
+"To change the date, use the arrows to the left and right of the month to "
+"change the month, use the arrows to the left and right of the year to change "
+"the year, and click on the day of the week to change the day of the week."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
+msgid ""
+"To change the time, use the up and down arrow buttons beside the "
+"<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
+"<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
+msgid ""
+"Alternatively, you can use the keyboard to change date and time. Use "
+"<keycap>Tab</keycap> and <keycombo><keycap>Shift</keycap><keycap>Tab</"
+"keycap></keycombo> to move between the widgets. In the calendar widget, you "
+"can use <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> and "
+"<keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> to change "
+"the year, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> "
+"and <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> to "
+"change the month and the arrow keys and <keycap>Space</keycap> to choose and "
+"set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
+"and <keycap>Down</keycap> to change the values."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
+msgid ""
+"Clicking the <guibutton>OK</guibutton> button applies any changes made to "
+"the date and time, the NTP daemon settings, and the time zone settings. It "
+"also exits the program."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
+#, fuzzy
+msgid "Network Time Protocol (NTP) Properties"
+msgstr "নে'টৱৰ্ক সময় আচাৰ বিধি (_w)"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "synchronize with NTP server"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+#, fuzzy
+msgid "Network Time Protocol"
+msgstr "নে'টৱৰ্ক সময় আচাৰ বিধি (_w)"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "NTP"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "configuring"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
+msgid "ntpd"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
+"that appears is for configuring NTP."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
+#, fuzzy
+msgid "NTP Properties"
+msgstr "দিন/সময়ৰ বৈশিষ্ট "
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+msgid ""
+"The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
+"remote time server or time source. The application allows you to configure "
+"an NTP daemon to synchronize your system clock with a remote server. To "
+"enable this feature, select <guibutton>Enable Network Time Protocol</"
+"guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other "
+"options. You can choose one of the predefined servers, edit a predefined "
+"server by clicking the <guibutton>Edit</guibutton> or add a new server name "
+"by clicking <guibutton>Add</guibutton>. Your system does not start "
+"synchronizing with the NTP server until you click <guibutton>OK</guibutton>. "
+"After clicking <guibutton>OK</guibutton>, the configuration is saved and the "
+"NTP daemon is started (or restarted if it is already running)."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
+msgid "Time Zone Configuration"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
+#, fuzzy
+msgid "time zone configuration"
+msgstr "সমকাল মণ্ডলৰ নিৰ্ব্বাচন"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, the third tabbed window "
+"that appears is for configuring the system time zone."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
+msgid ""
+"To configure the system time zone, click the <guilabel>Time Zone</guilabel> "
+"tab. The time zone can be changed by either using the interactive map or by "
+"choosing the desired time zone from the list below the map. To use the map, "
+"click into it to choose the city specific to your time zone. A red "
+"<guilabel>X</guilabel> appears and the time zone selection changes in the "
+"list below the map. You can use the slider to the left of the map to change "
+"the zoom level."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
+msgid ""
+"Alternatively, you can also use the list below the map. In the same way that "
+"the map lets you choose a region before choosing a city, the list of time "
+"zones is now a treelist, with cities and countries grouped within their "
+"specific continents. Non-geographic time zones have also been added to "
+"address needs in the scientific community."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to apply the changes and exit the program."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
+#, fuzzy
+msgid "Timezone Properties"
+msgstr "দিন/সময়ৰ বৈশিষ্ট "
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
+msgid ""
+"If your system clock is set to use UTC, select the <guibutton>System clock "
+"uses UTC</guibutton> option. UTC stands for the <firstterm>Universal Time, "
+"Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
+"zones are determined by adding or subtracting from the UTC time."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
+msgid "translator-credits"
+msgstr ""
+
+#~ msgid "Server"
+#~ msgstr "সেৱক"
+
+#~ msgid ""
+#~ "The NTP initscript (%s) does not seem to be functioning properly.  Try "
+#~ "running 'rpm -V ntp' to see if the initscript has been modified.  system-"
+#~ "config-date will exit now."
+#~ msgstr ""
+#~ "NTP initscript (%s) শুদ্ধভাবে কাৰ্য্যকৰ নোহোৱা যেন লাগে । 'rpm -V ntp' চলাবলৈ "
+#~ "চেষ্টা কৰক initscript সলনি হোৱা চাবলৈ । system-config-date এতিয়া বন্ধ হ'ব ।"
+
+#~ msgid "Error"
+#~ msgstr "ভুল"
+
+#~ msgid "Checking whether NTP server '%s' is reachable..."
+#~ msgstr "'%s' NTP সেৱক ঢুকি পোৱাৰ পৰীক্ষা কৰা হৈছে..."
+
+#~ msgid ""
+#~ "You cancelled checking whether NTP server '%s' is reachable. Do you still "
+#~ "want your changes to take effect?"
+#~ msgstr ""
+#~ "আপুনি '%s' NTP সেৱক ঢুকি পোৱাৰ পৰীক্ষা বাতিল কৰিছে । আপুনি এতিয়াও সাল সলনি "
+#~ "সমূহ প্ৰযোজ্য হোৱাতো বিচাৰে নেকি?"
+
+#~ msgid ""
+#~ "Host '%s' is not reachable or doesn't act as an NTP server. Do you still "
+#~ "want your changes to take effect?"
+#~ msgstr ""
+#~ "'%s' গৃহস্থ ঢুকি পোৱা ন'গ'ল বা NTP সেৱক ভাবে কাৰ্য্য নকৰে । আপুনি এতিয়াও সাল "
+#~ "সলনি সমূহ প্ৰযোজ্য হোৱাতো বিচাৰে নেকি?"
+
+#~ msgid "_Hide advanced options"
+#~ msgstr "উন্নত বিকল্প লুকুৱাই দিয়ক (_H)"
+
+#~ msgid "_Show advanced options"
+#~ msgstr "উন্নত বিকল্প প্ৰদৰ্শণ কৰক (_S)"
+
+#~ msgid "New NTP Server"
+#~ msgstr "নতুন NTP সেৱক"
+
+#~ msgid "Date & Time"
+#~ msgstr "দিন আৰু সময়"
+
+#~ msgid "Change system date and time"
+#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ দিন আৰু সময় সলনি কৰক"
+
+#~ msgid ""
+#~ "Couldn't connect to one of these time servers:\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Either none of them are available or the firewall settings on your "
+#~ "computer are blocking NTP connections.\n"
+#~ "\n"
+#~ "Do you want to change your configuration to work around this issue now?"
+#~ msgstr ""
+#~ "নিম্নলিখিত সময় সেৱকলৈ সংযোগ কৰিব পৰা ন'গ'ল :\n"
+#~ "\n"
+#~ "%s\n"
+#~ "\n"
+#~ "হয়তো কোনো এটা পোৱা নাযায় বা আপোনাৰ কম্পিউটাৰৰ ফায়াৰৱালৰ পটভূমিয়ে NTPৰ "
+#~ "সংযোগসমূহ বাধা দিছে ।\n"
+#~ "\n"
+#~ "এই সমস্যা সমাধানৰ বাবে আপুনি বিন্যাস সলনি কৰিব খোজে নেকি ?"
+
+#~ msgid "Failed to set time and date."
+#~ msgstr "সময় আৰু দিন নিৰ্ধাৰণ কৰিবলৈ বিফল ।"
+
+#~ msgid ""
+#~ "Failed to synchronize hardware clock. This may be because there is no "
+#~ "hardware clock accessible, e.g. when running in a virtualized environment."
+#~ msgstr ""
+#~ "যান্ত্ৰিক ঘড়ী এককালীন কৰিবলৈ বিফল । কোনো যান্ত্ৰিক ঘড়ী অভিগম কৰিব নোৱাৰা "
+#~ "বাবেও এইটো হ'ব পাৰে, যেনে এটা ভাৰ্চুৱেল পৰিবেশ চলাওঁতে ।"
+
+#~ msgid "Please specify an NTP server to use or enable NTP broadcast."
+#~ msgstr "ব্যৱহাৰ কৰিব'লৈ এটা NTP সেৱক নিৰ্ধাৰিত কৰক বা NTP সম্প্ৰচাৰণ সক্ষম কৰক ।"
+
+#~ msgid "Contacting NTP server.  Please wait..."
+#~ msgstr "NTP সেৱক যোগাযোগ কৰা হৈছে । অনুগ্ৰহ কৰি প্ৰতীক্ষা কৰক..."
+
+#~ msgid ""
+#~ "The help viewer could not be found. To be able to view help you need to "
+#~ "install the 'yelp' package."
+#~ msgstr ""
+#~ "সহায় প্ৰদৰ্শন কৰা পোৱা ন'গ'ল । ইয়াক চাবলৈ আপুনি 'yelp' সৰঞ্জাম সংস্থাপন কৰিব "
+#~ "লাগিব ।"
+
+#~ msgid ""
+#~ "Usage: system-config-date [options]\n"
+#~ "Enduser options:\n"
+#~ "-h|--help        Display this help message\n"
+#~ "Reserved options:\n"
+#~ "--page <page>    Display page <page>\n"
+#~ msgstr ""
+#~ "ব্যৱহাৰৰপ্ৰণালী: system-config-date [options]\n"
+#~ "Enduser options:\n"
+#~ "-h|--help        Display this help message\n"
+#~ "Reserved options:\n"
+#~ "--page <page>    Display page <page>\n"
+
+#~ msgid "Text mode interface is deprecated\n"
+#~ msgstr "লিখিত ৰূপৰ সংযোগ মাধ্যম অবচিত হৈছে\n"
+
+#~ msgid "option(s) '%s' not recognized\n"
+#~ msgstr "'%s' বিকল্প(সমূহ) চিনাক্ত কৰিব নোৱাৰি\n"
+
+#~ msgid "OK"
+#~ msgstr "ঠিক আছে"
+
+#~ msgid "Cancel"
+#~ msgstr "বাতিল কৰক"
+
+#~ msgid "Select the time zone for the system."
+#~ msgstr "আপোনাৰ ব্যৱস্থাপ্ৰণালীৰ বাবে সমকাল মণ্ডল নিৰ্ব্বাচন কৰক ।"
+
+#~ msgid "System clock uses UTC"
+#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ ঘড়ীয়ে UTC ব্যৱহাৰ কৰে"
+
+#~ msgid "You must be root to run timeconfig."
+#~ msgstr "timeconfig চলাব'লৈ আপুনি ৰূট হ'ব লাগিব ।"
+
+#~ msgid "Error copying time zone (from %(fromFile)s): %(msg)s"
+#~ msgstr "সমকাল মণ্ডল নকল কৰোঁতে ভুল (from %(fromFile)s): %(msg)s"
+
+#~ msgid "Changing permission of time zone: %s"
+#~ msgstr "সমকালমণ্ডলৰ অনুমতি সলনি কৰা হৈছে: %s"
+
+#~ msgid "Error removing /var/spool/postfix/etc/localtime"
+#~ msgstr "/var/spool/postfix/etc/localtime আঁতৰাওঁতে ভুল হৈছে"
+
+#~ msgid "Non-geographic timezones"
+#~ msgstr "অ-ভৌগোলিক সমকালমণ্ডল"
+
+#~ msgid ", "
+#~ msgstr ","
+
+#~ msgid "Selected city: %(city)s (%(comments)s)"
+#~ msgstr "নিৰ্বাচিত চহৰ: %(city)s (%(comments)s)"
+
+#~ msgid "Selected city: %s"
+#~ msgstr "নিৰ্বাচিত চহৰ: %s"
+
+#~ msgid "Please select the nearest city in your time zone:"
+#~ msgstr "আপোনাৰ সমকালমণ্ডলত থকা ওচৰৰ মহানগৰ বাচি লওক:"
+
+#~ msgid "Use button 2 or 3 for panning and the scrollwheel to zoom in or out."
+#~ msgstr ""
+#~ "২ আৰু ৩ নং বুটাম ব্যৱহাৰ কৰক নিষ্কাশন কৰিবলৈ আৰু স্ক্ৰ'লহ্বিল ব্যৱহাৰ কৰক বাহিৰ বা "
+#~ "ভিতৰলৈ জুম কৰিবলৈ ।"
+
+#~ msgid "_Date"
+#~ msgstr "দিন(_D)"
+
+#~ msgid "Current Time : "
+#~ msgstr "বৰ্ত্তমানৰ সময়:"
+
+#~ msgid "_Hour : "
+#~ msgstr "ঘণ্টা (_H):"
+
+#~ msgid "_Minute : "
+#~ msgstr "মিনিট (_M):"
+
+#~ msgid "_Second : "
+#~ msgstr "চেকেণ্ড (_S):"
+
+#~ msgid "Time"
+#~ msgstr "সময়"
+
+#~ msgid "Date & _Time"
+#~ msgstr "দিন আৰু সময়(_T)"
+
+#~ msgid ""
+#~ "Your computer can synchronize its clock with a remote time server using "
+#~ "the Network Time Protocol"
+#~ msgstr ""
+#~ "আপেনাৰ কম্পিউটাৰে নিজৰ ঘড়ী দূৰৰ সময় সেৱকৰ সৈতে এককালিন কৰিব পাৰে নে'টৱৰ্ক "
+#~ "সময় আচাৰ বিধিৰ যোগেদি ।"
+
+#~ msgid ""
+#~ "Use this option if you want to keep your computer's clock synchronized "
+#~ "with an NTP time server."
+#~ msgstr ""
+#~ "আপোনাৰ কম্পিউটাৰৰ ঘড়ী NTP সময় সেৱকৰ সৈতে এককালিন কৰি ৰাখিব খোজিলে এই বিকল্প "
+#~ "ব্যৱহাৰ কৰক ।"
+
+#~ msgid "Enable _Network Time Protocol"
+#~ msgstr "নে'টৱৰ্ক সময় আচাৰ বিধি সক্ষম কৰক (_N)"
+
+#~ msgid "NTP Servers"
+#~ msgstr "NTP সময় সেৱক"
+
+#~ msgid ""
+#~ "Use this option if the system clock should be synchronized to your time "
+#~ "server before starting the service. Don't use this option if your time "
+#~ "server regularly can't be reached, e.g. on a laptop, as synchronization "
+#~ "may block until a timeout has passed."
+#~ msgstr ""
+#~ "যদি ব্যৱস্থাপ্ৰণালীৰ ঘড়ী আপোনাৰ সময় সেৱকৰ সৈতে এককালিন হ'ব লাগে তেনেহ'লে এই "
+#~ "বিকল্প ব্যৱহাৰ কৰক । এই বিকল্প ব্যৱহাৰ নকৰিব যদি আপোনাৰ সময় সেৱা প্ৰদান কৰোঁতা "
+#~ "নিয়মিত ভাবে ঢুকি পাব নোৱাৰি, যেনে এটা লেপ্ট'পত, কাৰণ এককালিন হোৱা কাৰ্য্য "
+#~ "কোনো বিৰতি পাৰ হোৱা লৈকে প্ৰতিবন্ধিত হ'ব পাৰে ।"
+
+#~ msgid "S_ynchronize system clock before starting service"
+#~ msgstr "সেৱা আগবঢ়োৱাৰ পূৰ্বে ব্যৱস্থাপ্ৰণালীৰ ঘড়ী এককালিন কৰক (_y)"
+
+#~ msgid ""
+#~ "Use this option if you have e.g. a radio controlled clock device that "
+#~ "synchronizes your computer's clock with an authoritative time source."
+#~ msgstr ""
+#~ "এই বিকল্প ব্যৱহাৰ কৰক যদি আপোনাৰ ওচৰত যেনে এটা ৰেডিঅ' নিয়ন্ত্ৰিত ঘড়ী যন্ত্ৰ আছে "
+#~ "যি আপেনাৰ কম্পিউটাৰৰ ঘড়ী কোনো অধিকাৰপূৰ্ণ সময় উত্‌সৰ সৈতে এককালিন কৰে ।"
+
+#~ msgid "Use _Local Time Source"
+#~ msgstr "স্থানিক সময়ৰ উত্‌স ব্যৱহাৰ কৰক (_L)"
+
+#~ msgid ""
+#~ "Use this option if your computer should broadcast for an NTP server on "
+#~ "the local subnet."
+#~ msgstr ""
+#~ "এই বিকল্প ব্যৱহাৰ কৰক যদি স্থানিক ছাবনে'টত আপোনাৰ কম্পিউটাৰে কোনো NTP সেৱা "
+#~ "প্ৰদান কৰোঁতাৰ বাবে সম্প্ৰচাৰণ কৰিব লাগে ।"
+
+#~ msgid "Enable NTP _Broadcast"
+#~ msgstr "NTP সম্প্ৰচাৰণ সক্ষম কৰক (_B)"
+
+#~ msgid ""
+#~ "Use this if you want to automatically switch between normal and daylight "
+#~ "savings time. Don't use this if you have other operating systems on this "
+#~ "computer which adjust the hardware clock to achieve this, e.g. Microsoft "
+#~ "Windows(tm)."
+#~ msgstr ""
+#~ "যদি আপুনি স্বয়ংচলিত ভাবে সাধাৰণ আৰু দিৱালোক সময়ৰ মাজত সলনি কৰিব খোজে "
+#~ "তেনেহ'লে এইটো ব্যৱহাৰ কৰক । যদি আপোনাৰ এই কম্পিউটাৰত অন্য কাৰ্য্যকৰ "
+#~ "ব্যৱস্থাপ্ৰণালী আছে যেনে, Microsoft Windows(tm), যি এই কাৰ্য্যৰ বাবে যন্ত্ৰৰ "
+#~ "ঘড়ীক সলনি কৰে তেনেহ'লে ব্যৱহাৰ নকৰিব ।"
+
+#~ msgid "_System clock uses UTC"
+#~ msgstr "ব্যৱস্থাপ্ৰণালীৰ ঘড়ীয়ে UTC ব্যৱহাৰ কৰে (_S)"
+
+#~ msgid "Time _Zone"
+#~ msgstr "সমকালমণ্ডল (_Z)"

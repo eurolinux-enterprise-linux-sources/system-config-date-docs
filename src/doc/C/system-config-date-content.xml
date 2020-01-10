@@ -1,0 +1,134 @@
+	<indexterm significance="normal">
+		<primary><command>timetool</command>
+		</primary>
+		<see>&SYSTEM_CONFIG_DATE_TOOL;</see>
+	</indexterm>
+
+    <para>
+        The <application>&SYSTEM_CONFIG_DATE_TOOL;</application>
+        allows the user to change the system date and time, to configure
+        the time zone used by the system, and to setup the Network Time
+        Protocol (NTP) daemon to synchronize the system clock with a time
+        server.
+    </para>
+
+    &SYSTEM_CONFIG_DATE_INVOCATION;
+
+	<section id="s1-dateconfig-time-date">
+		<title>Time and Date Properties</title>
+		<indexterm significance="normal">
+			<primary>time configuration</primary>
+		</indexterm>
+		<indexterm significance="normal">
+			<primary>date configuration</primary>
+		</indexterm>
+		<para>
+			As shown in <xref linkend="dateconfig-time-date"/>, the first tabbed window that appears is for configuring the system date and time.
+		</para>
+		<figure float="0" id="dateconfig-time-date"><title>Time and Date Properties</title>
+			<mediaobject>
+
+				<imageobject><imagedata fileref="images/date-time.png" format="PNG"/></imageobject>
+				<textobject><para>
+						Time and Date Properties
+					</para>
+				</textobject>
+			</mediaobject>
+		</figure>
+		<para>
+			To change the date, use the arrows to the left and right of the month to change the month, use the arrows to the left and right of the year to change the year, and click on the day of the week to change the day of the week.
+		</para>
+		 
+		<para>
+			To change the time, use the up and down arrow buttons beside the <guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and <guilabel>Second</guilabel> in the <guilabel>Time</guilabel>
+			section. 
+        </para>
+
+        <para>
+            Alternatively, you can use the keyboard to change date and time. Use <keycap>Tab</keycap> and <keycombo><keycap>Shift</keycap><keycap>Tab</keycap></keycombo> to move between the widgets. In the calendar widget, you can use <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> and <keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> to change the year, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> and <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> to change the month and the arrow keys and <keycap>Space</keycap> to choose and set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> and <keycap>Down</keycap> to change the values.
+        </para>
+		 
+		<para>
+			Clicking the <guibutton>OK</guibutton> button applies any changes made to the date and time, the NTP daemon settings, and the time zone settings. It also exits the program.
+		</para>
+	</section>
+	<section id="s1-dateconfig-ntp">
+		<title>Network Time Protocol (NTP) Properties</title>
+		<indexterm significance="normal">
+			<primary>time configuration</primary>
+			<secondary>synchronize with NTP server</secondary>
+		</indexterm>
+		<indexterm significance="normal">
+			<primary>Network Time Protocol</primary>
+			<see>NTP</see>
+		</indexterm>
+		<indexterm significance="normal">
+			<primary>NTP</primary>
+			<secondary>configuring</secondary>
+		</indexterm>
+		<indexterm significance="normal">
+			<primary>NTP</primary>
+			<secondary><command>ntpd</command>
+			</secondary>
+		</indexterm>
+		<indexterm significance="normal">
+			<primary><command>ntpd</command>
+			</primary>
+		</indexterm>
+		<para>
+			As shown in <xref linkend="dateconfig-ntp"/>, the second tabbed window that appears is for configuring NTP.
+		</para>
+		<figure float="0" id="dateconfig-ntp"><title>NTP Properties</title>
+			<mediaobject>
+
+				<imageobject><imagedata fileref="images/date-time-ntp.png" format="PNG"/></imageobject>
+				<textobject><para>
+						NTP Properties
+					</para>
+				</textobject>
+			</mediaobject>
+		</figure>
+		<para>
+			The Network Time Protocol (NTP) daemon synchronizes the system clock with a remote time server or time source. The application allows you to configure an NTP daemon to synchronize your system clock with a remote server. To enable this feature, select <guibutton>Enable Network Time Protocol</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list and other options. You can choose one of the predefined servers, edit a predefined server by clicking the <guibutton>Edit</guibutton> or add a new server name by clicking <guibutton>Add</guibutton>. Your system does not start synchronizing with the NTP server until you click <guibutton>OK</guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is saved and the NTP daemon is started (or
+			restarted if it is already running).
+		</para>
+		 
+		<para>
+			Clicking the <guibutton>OK</guibutton> button applies any changes made to the date and time, the NTP daemon settings, and the time zone settings. It also exits the program.
+		</para>
+	</section>
+	<section id="s1-dateconfig-time-zone">
+		<title>Time Zone Configuration</title>
+		<indexterm significance="normal">
+			<primary>time zone configuration</primary>
+		</indexterm>
+		<para>
+			As shown in <xref linkend="dateconfig-timezone"/>, the third tabbed window that appears is for configuring the system time zone.
+		</para>
+		 
+		<para>
+			To configure the system time zone, click the <guilabel>Time Zone</guilabel> tab. The time zone can be changed by either using the interactive map or by choosing the desired time zone from the list below the map. To use the map, click into it to choose the city specific to your time zone. A red <guilabel>X</guilabel> appears and the time zone selection changes in the list below the map. You can use the slider to the left of the map to change the zoom level.
+		</para>
+		<para>
+			Alternatively, you can also use the list below the map. In the same way that the map lets you choose a region before choosing a city, the list of time zones is now a treelist, with cities and countries grouped within their specific continents. Non-geographic time zones have also been added to address needs in the scientific community.
+		</para>		
+			
+		<para>	
+			Click <guibutton>OK</guibutton> to apply the changes and exit the
+			program.
+		</para>
+		<figure float="0" id="dateconfig-timezone"><title>Timezone Properties</title>
+			<mediaobject>
+
+				<imageobject><imagedata fileref="images/timezone.png" format="PNG"/></imageobject>
+				<textobject><para>
+						Timezone Properties
+					</para>
+				</textobject>
+			</mediaobject>
+		</figure>
+		<para>
+			If your system clock is set to use UTC, select the <guibutton>System clock uses UTC</guibutton> option. UTC stands for the <firstterm>Universal Time, Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time zones are
+			determined by adding or subtracting from the UTC time.
+		</para>
+	</section>
