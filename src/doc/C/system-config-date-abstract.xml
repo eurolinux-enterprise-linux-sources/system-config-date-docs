@@ -1,0 +1,7 @@
+<para>
+    The <application>&SYSTEM_CONFIG_DATE_TOOL;</application>
+    allows the user to change the system date and time, to
+    configure the time zone used by the system, and to setup the
+    Network Time Protocol (NTP) daemon to synchronize the system
+    clock with a time server.
+</para>

@@ -1,0 +1,556 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"POT-Creation-Date: 2012-03-05 15:23+0100\n"
+"PO-Revision-Date: 2010-08-22 18:09+0330\n"
+"Last-Translator: Mostafa <info@mostafadaneshvar.com>\n"
+"Language-Team: Persian <trans-fa@lists.fedoraproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: Iran\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
+msgid "@@image: 'images/date-time.png'; md5=d7c0574ecc00072c5ae7bf0c70a36aa9"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+msgid ""
+"@@image: 'images/date-time-ntp.png'; md5=0124c9f946aa5cd33ccf58075ce6c48f"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
+msgid "@@image: 'images/timezone.png'; md5=2059859babcfae5df05192c98b9ae291"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
+msgid "Time and Date Properties Tool"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0"
+msgstr "۱.۰"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2007-11-22"
+msgstr "۲۰۰۸-۰۱-۳۰"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Initial revision"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.1"
+msgstr "۱.۱.۱"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2008-01-17"
+msgstr "۲۰۰۸-۰۱-۳۰"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make DocBook XML validate properly"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.2"
+msgstr "۱.۰"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2008-01-18"
+msgstr "۲۰۰۸-۰۱-۳۰"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make document abstract external"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.3"
+msgstr "۱.۰"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-03-12"
+msgstr "۲۰۰۸-۳-۱۲"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Use menuchoice elements where applicable"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.10"
+msgstr "۱.۱.۱"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2010-05-06"
+msgstr "۲۰۰۸-۰۱-۳۰"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Add copyright information"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.11"
+msgstr "۱.۱.۱"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2012-03-05"
+msgstr "۲۰۰۸-۰۳-۰۵"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Update screenshots and some descriptions"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
+msgid ""
+"The <application>Time and Date Properties Tool</application> allows the user "
+"to change the system date and time, to configure the time zone used by the "
+"system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
+"the system clock with a time server."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
+msgid "Red Hat"
+msgstr "ردهت"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2007"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2008"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2010"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2012"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(holder)
+#, fuzzy
+msgid "Red Hat, Inc."
+msgstr "ردهت"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
+msgid "timetool"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
+#, fuzzy
+msgid "system-config-date"
+msgstr "system-config-services"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
+#, fuzzy
+msgid "system-config-time"
+msgstr "system-config-services"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
+msgid "dateconfig"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the Time and Date Properties Tool. There are three "
+"ways to start the application:"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
+#, fuzzy
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
+"Time</guimenuitem></menuchoice>"
+msgstr ""
+"شما باید سیستم مدیریت پنجره <application>X</application> و دسترسی ریشه برای "
+"استفاده از ابزار پیکره بندی خدمات داشته باشید. برای شروع برنامه بر روی رمیزی "
+"به <menuchoice><guimenu> منو اصلی( با نماد\"f\" ) </"
+"guimenu><guisubmenu>سیستم</guisubmenu><guisubmenu>مدیریت</"
+"guisubmenu><guimenuitem>خدمات</guimenuitem></menuchoice> بروید."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
+msgid ""
+"From the desktop, right-click on the time in the toolbar and select "
+"<guimenuitem>Adjust Date and Time</guimenuitem>."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
+msgid ""
+"Type the command <command>system-config-date</command>, <command>system-"
+"config-time</command>, or <command>dateconfig</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
+msgid "Time and Date Properties"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+#, fuzzy
+msgid "time configuration"
+msgstr "ابزار پیکره بندی خدمات"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+#, fuzzy
+msgid "date configuration"
+msgstr "ابزار پیکره بندی خدمات"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, on the first tab you "
+"can configure the system date and time."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
+msgid ""
+"To change the date, use the arrows to the left and right of the month to "
+"change the month, use the arrows to the left and right of the year to change "
+"the year, and click on the day of the week to change the day of the week."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
+msgid ""
+"To change the time, use the up and down arrow buttons beside the "
+"<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
+"<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
+msgid ""
+"Alternatively, you can use the keyboard to change date and time. Use "
+"<keycap>Tab</keycap> and <keycombo><keycap>Shift</keycap><keycap>Tab</"
+"keycap></keycombo> to move between the widgets. In the calendar widget, you "
+"can use <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> and "
+"<keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> to change "
+"the year, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> "
+"and <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> to "
+"change the month and the arrow keys and <keycap>Space</keycap> to choose and "
+"set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
+"and <keycap>Down</keycap> to change the values."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
+msgid ""
+"Clicking the <guibutton>OK</guibutton> button applies any changes made to "
+"the date and time, the NTP daemon settings, and the time zone settings. It "
+"also exits the program."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
+msgid "Network Time Protocol (NTP) Properties"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "synchronize with NTP server"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "Network Time Protocol"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "NTP"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "configuring"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
+msgid "ntpd"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, instead of manually "
+"configuring date and time you can choose to have them be set automatically "
+"and continuously updated from one or more time servers."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
+msgid "NTP Properties"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+msgid ""
+"The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
+"remote time server or time source. The application allows you to configure "
+"an NTP daemon to synchronize your system clock with a remote server. To "
+"enable this feature, select <guibutton>Synchronize date and time over the "
+"network</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list "
+"and other options. You can choose one of the predefined servers, edit a "
+"predefined server by clicking the <guibutton>Edit</guibutton> or add a new "
+"server name by clicking <guibutton>Add</guibutton>. Your system does not "
+"start synchronizing with the NTP server until you click <guibutton>OK</"
+"guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is "
+"saved and the NTP daemon is started (or restarted if it is already running)."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
+#, fuzzy
+msgid "Time Zone Configuration"
+msgstr "ابزار پیکره بندی خدمات"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
+#, fuzzy
+msgid "time zone configuration"
+msgstr "ابزار پیکره بندی خدمات"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, on the second tab you "
+"can configure the system time zone."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
+msgid ""
+"To configure the system time zone, click the <guilabel>Time Zone</guilabel> "
+"tab. The time zone can be changed by either using the interactive map or by "
+"choosing the desired time zone from the list below the map. To use the map, "
+"click into it to choose the city specific to your time zone. A red "
+"<guilabel>X</guilabel> appears and the time zone selection changes in the "
+"list below the map. You can use the slider to the left of the map to change "
+"the zoom level."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
+msgid ""
+"Alternatively, you can also use the list below the map. In the same way that "
+"the map lets you choose a region before choosing a city, the list of time "
+"zones is now a treelist, with cities and countries grouped within their "
+"specific continents. Non-geographic time zones have also been added to "
+"address needs in the scientific community."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to apply the changes and exit the program."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
+msgid "Timezone Properties"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
+msgid ""
+"If your system clock is set to use UTC, select the <guibutton>System clock "
+"uses UTC</guibutton> option. UTC stands for the <firstterm>Universal Time, "
+"Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
+"zones are determined by adding or subtracting from the UTC time."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "مصطفی دانشور"
+
+#~ msgid ""
+#~ "@@image: 'images/system-config-services.png'; "
+#~ "md5=b16def702fe4c9ebb1c6f0c1c7721000"
+#~ msgstr ""
+#~ "@@image: 'images/system-config-services.png'; "
+#~ "md5=b16def702fe4c9ebb1c6f0c1c7721000"
+
+#~ msgid "Controlling Access to Services"
+#~ msgstr " کنترل دسترسی به خدمات"
+
+#~ msgid "1.1"
+#~ msgstr "۱.۱"
+
+#~ msgid ""
+#~ "Maintaining security on your system is extremely important, and one "
+#~ "approach for this task is to manage access to system services carefully. "
+#~ "Your system may need to provide open access to particular services (for "
+#~ "example, <command>httpd</command> if you are running a Web server). "
+#~ "However, if you do not need to provide a service, you should turn it off "
+#~ "to minimize your exposure to possible bug exploits."
+#~ msgstr ""
+#~ "حفظ امنیت در سیستم شما فوق العاده مهم است و یکی از رویکردها  مدیریت دقیق "
+#~ "دسترسی به خدمات است. سیستم شما شاید نیاز به دسترسی باز به برخی خدمات "
+#~ "( مثلا  <command>httpd</command> داشته باشد اگر شما کارگذار وبی را اجرا "
+#~ "می کنید). به هر حال اگر نیاز به فراهم سازی یک خدمت ندارید باید آن را جهت "
+#~ "کم کردن خطر در معرض باگ بودن خاموش کنید."
+
+#~ msgid ""
+#~ "There are several different methods for managing access to system "
+#~ "services. Choose which method of management to use based on the service, "
+#~ "your system's configuration, and your level of Linux expertise."
+#~ msgstr ""
+#~ "چندین روش متعدد برای مدیریت دسترسی به خدمات سیستم وجود دارد.  روش مدیریت "
+#~ "را برای استفاده بر اساس خدمت، پیکره بندی سیستم خود، و سطح تسلط خود بر "
+#~ "لینوکس انتخاب کنید"
+
+#~ msgid ""
+#~ "The easiest way to deny access to a service is to turn it off. Both the "
+#~ "services managed by <command>xinetd</command> and the services in the "
+#~ "<filename>/etc/rc.d/init.d</filename> hierarchy (also known as SysV "
+#~ "services) can be configured to start or stop with the "
+#~ "<application>Services Configuration Tool</application>."
+#~ msgstr ""
+#~ "آسان ترین راه برای رد دسترسی به یک سرویس خاموش کردن ان است. هر دو سرویس "
+#~ "مدیریت شده با <command>xinetd</command> و خدمات در سلسله مراتب <filename>/"
+#~ "etc/rc.d/init.d</filename> (معروف به خدمات SysV) می توانند به گونه پیکره "
+#~ "بندی شود تا با <application>Services Configuration Tool</application> "
+#~ "آغاز یا متوقف شوند."
+
+#~ msgid ""
+#~ "The <application>Services Configuration Tool</application> is a graphical "
+#~ "application to configure which SysV services in the <filename>/etc/rc.d/"
+#~ "init.d</filename> directory are started at boot time (for runlevels 3, 4, "
+#~ "and 5) and which <command>xinetd</command> services are enabled. It also "
+#~ "allows you to start, stop, and restart SysV services."
+#~ msgstr ""
+#~ "برنامه ی <application>ابزار پیکره بندی خدمات</application> برنامه ی "
+#~ "گرافیکی برای پیکره بندی خدمات SysV در شاخه ی <filename>/etc/rc.d/init.d</"
+#~ "filename> که در هنگام راه اندازی آغاز شده اند ( برای سطوح اجرای ۳،۴ و۵) "
+#~ "همچنین خدمات <command>xinetd</command> فعال شده اند، می باشد. آن به شما "
+#~ "اجازه می دهد خدمات  SysV را شروع،متوقف و شروع مجددا کنید."
+
+#~ msgid "Configuring network services"
+#~ msgstr "پیکره بندی خدمات شبکه ای"
+
+#~ msgid ""
+#~ "The <application>Services Configuration Tool</application> lists the "
+#~ "services from the <filename>/etc/rc.d/init.d</filename> directory as well "
+#~ "as the services controlled by <command>xinetd</command>. Click on the "
+#~ "name of the service from the list on the left-hand side of the "
+#~ "application to display a brief description of that service as well as the "
+#~ "status of the service. If the service is a SysV service, the status "
+#~ "window shows whether the service is currently running."
+#~ msgstr ""
+#~ "برنامه ی <application>ابزار پیکره بندی خدمات</application> خدمات را از "
+#~ "شاخه <filename>/etc/rc.d/init.d</filename> و خدماتی که با "
+#~ "<command>xinetd</command> کنترل می شوند را لیست می کند. بر روی نام سرویس "
+#~ "از لیست سمت چپ کلیک کرده تا توضیح مختصری از ان سرویس و وضعیت ان نمایش "
+#~ "داده شود. اگر سرویس یک خدمت SysV باشد پنجره وضعیت نشان می دهد که آیا آن "
+#~ "اکنون در حال اجراست یا خیر."
+
+#~ msgid ""
+#~ "To start, stop, or restart a service immediately, select the service from "
+#~ "the list and click the appropriate button on the toolbar (or choose the "
+#~ "action from the <guimenu>Service</guimenu> pulldown menu). If the service "
+#~ "is an <command>xinetd</command> service, the action buttons are disabled "
+#~ "because they cannot be started or stopped individually."
+#~ msgstr ""
+#~ "برای شروع، متوقف و شروع مجددا  فوری هر سرویس، از لیست خدمت را انتخاب کرده "
+#~ "و بر روی دکمه مناسب بر روی نوارابزار کلیک کنید( یا عمل را از منو پایین رو "
+#~ "<guimenu>Service</guimenu> انتخاب کنید). اگر خدمات یک خدمت "
+#~ "<command>xinetd</command> است دکمه عمل غیر فعال می باشد زیر آنها نمی "
+#~ "توانند جداگانه شروع و متوقف شوند."
+
+#~ msgid "Note"
+#~ msgstr "یادداشت"
+
+#~ msgid ""
+#~ "When you save changes to <command>xinetd</command> services, "
+#~ "<command>xinetd</command> is reloaded, and the changes take place "
+#~ "immediately. When you save changes to other services, the runlevel is "
+#~ "reconfigured, but the changes do not take effect immediately."
+#~ msgstr ""
+#~ "وقتی شما تغییرات را در  خدمات  <command>xinetd</command> ذخیره سازی می "
+#~ "کنید، <command>xinetd</command> بار دیگر بارگذاری می شود و تغییرات فورا "
+#~ "اعمال می شوند. وقتی تغییرات سایر خدمات ذخیره می شوند سطح اجرا باز پیکره "
+#~ "بندی می شود اما تغییرات فورا اعمال نمی شوند."
+
+#~ msgid ""
+#~ "To enable a service, select the service in the list and click on one of "
+#~ "the <guibutton>Enable</guibutton>, <guibutton>Disable</guibutton> or (to "
+#~ "enable a SysV service in other than the default runlevels) "
+#~ "<guibutton>Customize</guibutton> buttons in the toolbar or choose the "
+#~ "equivalent action from the <guimenu>Service</guimenu> menu. In the case "
+#~ "of a SysV service, the runlevel configuration is changed, but the "
+#~ "runlevel is not restarted; thus, the changes do not take place "
+#~ "immediately."
+#~ msgstr ""
+#~ "برای فعال سازی یک خدمت، سرویس را از لیست انتخاب کرده و بر روی دکمه "
+#~ "<guibutton>فعال</guibutton>, <guibutton>غیرفعال</guibutton> کلیک کنید یا "
+#~ "( برای فعال سازی خدمت SysV در سطح اجرایی دیگر از پیش فرض) دکمه "
+#~ "<guibutton>شخصی سازی</guibutton> را در نوار ابزار یا عمل مناسب را را "
+#~ "منوی<guimenu>خدمت</guimenu> انتخاب کنید.وقتی خدمت SysV پیکره بندی سطح "
+#~ "اجرا تغییر کرد اما سطح اجرا اغاز نشده است، پس تغییرات سریعا اعمال نمی "
+#~ "شوند."
+
+#~ msgid ""
+#~ "As an example: If you disable the <command>httpd</command> service, the "
+#~ "runlevel configuration changes so that <command>httpd</command> is not "
+#~ "started at boot time. However, the current runlevel is not reinitialized, "
+#~ "so <command>httpd</command> is still running. Select one of following "
+#~ "options at this point:"
+#~ msgstr ""
+#~ "مثال: اگر شما خدمت <command>httpd</command> را غیرفعال کنید، پیکره بندی "
+#~ "سطح اجرا برای <command>httpd</command> به گونه ای خواهد بود که در زمان "
+#~ "راه اندازی آغاز نشده بود. با این وجود سطح کنونی اجرا باز نماگذاری نشده "
+#~ "است پس <command>httpd</command> هنوز اجرا می شود. در این نکته یکی از "
+#~ "گزینه های ذیل را انتخاب کنید:"
+
+#~ msgid ""
+#~ "Stop the <command>httpd</command> service — Stop the service by selecting "
+#~ "it from the list and clicking the <guibutton>Stop</guibutton> button. The "
+#~ "status of the service will be updated accordingly."
+#~ msgstr ""
+#~ "توقف خدمت <command>httpd</command> - توقف خدمت با انتخاب از لیست و کلیک "
+#~ "بر روی دکمه <guibutton>توقف</guibutton>. وضعیت خدمت به همین ترتیب به "
+#~ "هنگام سازی می شود."
+
+#~ msgid ""
+#~ "Reinitialize the runlevel — Reinitialize the runlevel by going to a shell "
+#~ "prompt and typing the command <command>telinit <replaceable>x</"
+#~ "replaceable></command> (where <replaceable>x</replaceable> is the "
+#~ "runlevel number; for example, 3.). This option is recommended if you "
+#~ "enable or disable multiple services and want to activate the changes "
+#~ "immediately."
+#~ msgstr ""
+#~ "تغییر سطح اجرا — تغییر سطح اجرا با رفتن به فرمانبر شل و ورود دستور "
+#~ "<command>telinit <replaceable>x</replaceable></command> ( که "
+#~ "<replaceable>x</replaceable>  با شماره سطح اجرا جایگزین می شود، مثلا ۳). "
+#~ "این گزینه برای وقتی که می خواهید چندین خدمت را فعال یا غیر فعال کنید و "
+#~ "تغییرات سریعا اعمال شوند. "
+
+#~ msgid ""
+#~ "Do nothing else — You do not have to stop the <command>httpd</command> "
+#~ "service. You can wait until the system is rebooted for the service to "
+#~ "stop. The next time the system is booted, the runlevel is initialized "
+#~ "without the <command>httpd</command> service running."
+#~ msgstr ""
+#~ "کار دیگری انجام ندهید - شما نباید سرویس <command>httpd</command> را متوقف "
+#~ "کنید. شما می توانید تا زمانی که سیستم مجدد راه اندازی شود برای توقف سرویس "
+#~ "صبر کنید. دفعه دیگر که سیستم مجددا راه اندازی شد، سطح اجرا بدون  اجرای "
+#~ "سرویس  <command>httpd</command> آغاز می شود."

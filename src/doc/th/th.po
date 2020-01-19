@@ -1,0 +1,437 @@
+# , 2009.
+# Manatsawin <manatsawin@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-date.docs.th\n"
+"POT-Creation-Date: 2012-03-05 15:23+0100\n"
+"PO-Revision-Date: 2009-09-09 01:06+0700\n"
+"Last-Translator: Manatsawin <manatsawin@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Virtaal 0.4.0\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
+#, fuzzy
+msgid "@@image: 'images/date-time.png'; md5=d7c0574ecc00072c5ae7bf0c70a36aa9"
+msgstr "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/date-time-ntp.png'; md5=0124c9f946aa5cd33ccf58075ce6c48f"
+msgstr ""
+"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
+#, fuzzy
+msgid "@@image: 'images/timezone.png'; md5=2059859babcfae5df05192c98b9ae291"
+msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
+msgid "Time and Date Properties Tool"
+msgstr "เครื่องมือตั้งค่าวันที่และเวลา"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2007-11-22"
+msgstr "22-11-2550"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Initial revision"
+msgstr "รุ่นเริ่มต้น"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-17"
+msgstr "17-01-2551"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make DocBook XML validate properly"
+msgstr "ทำให้ DocBook XML ถูกต้องตามมาตราฐาน"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-18"
+msgstr "18-01-2551"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make document abstract external"
+msgstr "แยกบทนำออก"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.3"
+msgstr "1.0.3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-03-12"
+msgstr "12-03-2551"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Use menuchoice elements where applicable"
+msgstr "ใช้ส่วนประกอบ menuchoice เมื่อเหมาะสม"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.10"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2010-05-06"
+msgstr "17-01-2551"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Add copyright information"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.11"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2012-03-05"
+msgstr "17-01-2551"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Update screenshots and some descriptions"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
+msgid ""
+"The <application>Time and Date Properties Tool</application> allows the user "
+"to change the system date and time, to configure the time zone used by the "
+"system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
+"the system clock with a time server."
+msgstr ""
+"<application>เครื่องมือตั้งค่าวันที่และเวลา</"
+"application>ทำให้ผู้ใช้สามารถปรับเปลี่ยนวันที่และเวลาของระบบ, "
+"ปรับเขตเวลาที่ใช้ในระบบและตั้งดีมอนโพรโตคอลตั้งเวลาผ่านเครือข่ายเพื่อตั้งนาฬิกาให้ตรงกับเซิร์ฟเวอร์นาฬิกา"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2007"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2008"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+#, fuzzy
+msgid "2010"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+#, fuzzy
+msgid "2012"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(holder)
+#, fuzzy
+msgid "Red Hat, Inc."
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
+msgid "timetool"
+msgstr "timetool"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
+msgid "system-config-date"
+msgstr "system-config-date"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
+msgid "system-config-time"
+msgstr "system-config-time"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
+msgid "dateconfig"
+msgstr "dateconfig"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the Time and Date Properties Tool. There are three "
+"ways to start the application:"
+msgstr ""
+"คุณต้องรันระบบหน้าต่าง <application>X</application> "
+"และมีสิทธิรูทเพื่อใช้งานเครื่องมือตั้งค่าวันที่และเวลา โดยสามารถเปิดใช้ได้สามแบบ:"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
+"Time</guimenuitem></menuchoice>"
+msgstr ""
+"จากพื้นโต๊ะ ไปที่ <menuchoice><guimenu>เมนูหลักบนพาเนล (เมนูที่มีสัญลักษณ์ตัว \"f\")</"
+"guimenu><guisubmenu>ระบบ</guisubmenu><guisubmenu>บริหารระบบ</"
+"guisubmenu><guimenuitem>การตั้งค่าวันที่และเวลา</guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
+msgid ""
+"From the desktop, right-click on the time in the toolbar and select "
+"<guimenuitem>Adjust Date and Time</guimenuitem>."
+msgstr ""
+"จากพื้นโต๊ะ คลิกขวาที่นาฬิกาในแถบเครื่องมือและเลือก <guimenuitem>ตั้งวันที่และเวลา</"
+"guimenuitem>"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
+msgid ""
+"Type the command <command>system-config-date</command>, <command>system-"
+"config-time</command>, or <command>dateconfig</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+"พิมพ์คำสั่ง <command>system-config-date</command>, <command>system-config-time</"
+"command> หรือ <command>dateconfig</command> ที่เชลล์ (เช่นในโปรแกรม "
+"<application>XTerm</application> หรือเทอร์มินัลของ <application>GNOME</"
+"application>)"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
+msgid "Time and Date Properties"
+msgstr "การตั้งค่าวันที่และเวลา"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "time configuration"
+msgstr "การตั้งเวลา"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+msgid "date configuration"
+msgstr "การตั้งวันที่"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+#, fuzzy
+msgid ""
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, on the first tab you "
+"can configure the system date and time."
+msgstr ""
+"ดังที่แสดงใน<xref linkend=\"dateconfig-time-date\"/> "
+"แท็บแรกมีไว้สำหรับการตั้งวันที่และเวลาของระบบ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
+msgid ""
+"To change the date, use the arrows to the left and right of the month to "
+"change the month, use the arrows to the left and right of the year to change "
+"the year, and click on the day of the week to change the day of the week."
+msgstr ""
+"การเปลี่ยนวันที่ ให้ใช้ลูกศรทางด้านซ้ายและขวาของชื่อเดือนเพื่อเปลี่ยนเดือน "
+"ใช้ลูกศรทางซ้ายและขวาของปีเพื่อเปลี่ยนปี และคลิกที่วันในสัปดาห์เพื่อเปลี่ยนวันในสัปดาห์"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
+msgid ""
+"To change the time, use the up and down arrow buttons beside the "
+"<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
+"<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
+msgstr ""
+"การตั้งเวลาให้ใช้ลูกศรขึ้นและลงข้าง <guilabel>ชั่วโมง</guilabel>, <guilabel>นาที</"
+"guilabel> และ <guilabel>วินาที</guilabel> ในส่วน <guilabel>เวลา</guilabel>"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
+msgid ""
+"Alternatively, you can use the keyboard to change date and time. Use "
+"<keycap>Tab</keycap> and <keycombo><keycap>Shift</keycap><keycap>Tab</"
+"keycap></keycombo> to move between the widgets. In the calendar widget, you "
+"can use <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> and "
+"<keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> to change "
+"the year, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> "
+"and <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> to "
+"change the month and the arrow keys and <keycap>Space</keycap> to choose and "
+"set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
+"and <keycap>Down</keycap> to change the values."
+msgstr ""
+"นอกจากนี้แล้ว คุณยังสามารถใช้แป้นพิมพ์เปลี่ยนเวลา โดยใช้ <keycap>Tab</keycap> "
+"และ<keycombo><keycap>Shift</keycap><keycap>Tab</keycap></keycombo> "
+"ย้ายระหว่างช่อง ในช่องปฏิทินคุณสามารถใช้<keycombo><keycap>Ctrl</keycap><keycap>ขึ้น</"
+"keycap></keycombo> และ <keycombo><keycap>Ctrl</keycap><keycap>ลง</keycap></"
+"keycombo> เพื่อเปลี่ยนปี, <keycombo><keycap>Ctrl</keycap><keycap>ซ้าย</keycap></"
+"keycombo> และ <keycombo><keycap>Ctrl</keycap><keycap>ขวา</keycap></keycombo> "
+"เพื่อเปลี่ยนเดือน และใช้ <keycap>เว้นวรรค</keycap> เพื่อตั้งวันที่ ในช่อง ชั่วโมง นาที และวินาที "
+"ใช้ <keycap>ขึ้น</keycap> และ <keycap>ลง</keycap> เพื่อเปลี่ยนค่า"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
+msgid ""
+"Clicking the <guibutton>OK</guibutton> button applies any changes made to "
+"the date and time, the NTP daemon settings, and the time zone settings. It "
+"also exits the program."
+msgstr ""
+"คลิกปุ่ม<guibutton>ตกลง</guibutton>จะทำให้การเปลี่ยนแปลงไปยังวันที่และเวลา, "
+"การตั้งค่าดีมอน NTP และเขตเวลามีผลทันที และยังจะเป็นการออกจากโปรแกรม"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
+msgid "Network Time Protocol (NTP) Properties"
+msgstr "การตั้งค่าโพรโตคอลตั้งเวลาผ่านเครือข่าย (NTP)"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "synchronize with NTP server"
+msgstr "ตั้งเวลาให้ตรงกับเซิร์ฟเวอร์ NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "Network Time Protocol"
+msgstr "โพรโตคอลตั้งเวลาผ่านเครือข่าย"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "NTP"
+msgstr "NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "configuring"
+msgstr "ตั้งค่า"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
+msgid "ntpd"
+msgstr "ntpd"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, instead of manually "
+"configuring date and time you can choose to have them be set automatically "
+"and continuously updated from one or more time servers."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
+msgid "NTP Properties"
+msgstr "ตั้งค่า NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+#, fuzzy
+msgid ""
+"The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
+"remote time server or time source. The application allows you to configure "
+"an NTP daemon to synchronize your system clock with a remote server. To "
+"enable this feature, select <guibutton>Synchronize date and time over the "
+"network</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list "
+"and other options. You can choose one of the predefined servers, edit a "
+"predefined server by clicking the <guibutton>Edit</guibutton> or add a new "
+"server name by clicking <guibutton>Add</guibutton>. Your system does not "
+"start synchronizing with the NTP server until you click <guibutton>OK</"
+"guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is "
+"saved and the NTP daemon is started (or restarted if it is already running)."
+msgstr ""
+"ดีมอนโพรโตคอลตั้งเวลาผ่านเครือข่าย (NTP) "
+"จะตั้งนาฬิการะบบให้ตรงกับเซิร์ฟเวอร์เวลาระยะไกลหรือแหล่งข้อมูลนาฬิกา "
+"โปรแกรมนี้อนุญาตให้คุณกำหนดให้ดีมอน NTP ตั้งนาฬิการะบบกับเซิร์ฟเวอร์ระยะไกล "
+"โดยสามารถเปิดใช้งานได้จาก<guibutton>เปิดใช้โพรโตคอลตั้งเวลาผ่านเครือข่าย</guibutton> "
+"โดยมันจะเปิดให้สามารถแก้ไขรายการ<guilabel>เซิร์ฟเวอร์ NTP</guilabel>และตัวเลือกอื่นๆ "
+"คุณสามารถเลือกเซิร์ฟเวอร์ที่กำหนดไว้ให้แล้วตัวใดตัวหนึ่ง แล้วกดปุ่ม<guibutton>แก้ไข</"
+"guibutton> หรือเพิ่มเซิร์ฟเวอร์ใหม่โดยใช้ปุ่ม<guibutton>เพิ่ม</guibutton> "
+"ระบบของคุณจะยังไม่ตั้งนาฬิกาจนกว่าคุณจะกดปุ่ม<guibutton>ตกลง</guibutton> "
+"โดยปุ่มนี้จะบันทึกการเปลี่ยนแปลง และเริ่มดีมอน NTP(หรือเริ่มการทำงานใหม่ หากมันทำงานอยู่แล้ว)"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
+msgid "Time Zone Configuration"
+msgstr "ตั้งค่าเขตเวลา"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
+msgid "time zone configuration"
+msgstr "ตั้งค่าเขตเวลา"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+#, fuzzy
+msgid ""
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, on the second tab you "
+"can configure the system time zone."
+msgstr ""
+"ดังที่แสดงใน<xref linkend=\"dateconfig-timezone\"/> "
+"แท็บที่สามมีไว้สำหรับตั้งค่าเขตเวลาระบบ"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
+msgid ""
+"To configure the system time zone, click the <guilabel>Time Zone</guilabel> "
+"tab. The time zone can be changed by either using the interactive map or by "
+"choosing the desired time zone from the list below the map. To use the map, "
+"click into it to choose the city specific to your time zone. A red "
+"<guilabel>X</guilabel> appears and the time zone selection changes in the "
+"list below the map. You can use the slider to the left of the map to change "
+"the zoom level."
+msgstr ""
+"การตั้งเขตเวลาระบบ ให้กดที่แท็บ<guilabel>เขตเวลา</guilabel> "
+"โดยสามารถเลือกเขตเวลาจากแผนที่หรือเลือกจากรายการใต้แผนที่ "
+"การใช้แผนที่ให้คลิกที่เมืองที่ใช้เขตเวลานั้นๆ และจะมีตัว <guilabel>X</guilabel> สีแดงปรากฎขึ้น "
+"จากนั้นชื่อเขตเวลาจะแสดงในรายการใต้แผนที่ "
+"คุณสามารถใช้รางเลื่อนด้านซ้ายมือของแผนที่เพื่อเปลี่ยนระดับการย่อ-ขยาย"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
+msgid ""
+"Alternatively, you can also use the list below the map. In the same way that "
+"the map lets you choose a region before choosing a city, the list of time "
+"zones is now a treelist, with cities and countries grouped within their "
+"specific continents. Non-geographic time zones have also been added to "
+"address needs in the scientific community."
+msgstr ""
+"นอกจากนี้คุณยังสามารถใช้รายการใต้แผนที่ในแบบเดียวกับแผนที่ "
+"โดยรายการเขตเวลาจะเป็นแผนภูมิต้นไม้ มีเมืองและประเทศจัดกลุ่มตามทวีป "
+"สำหรับเขตเวลาที่ไม่ได้ใช้ข้อมูลภูมิศาสตร์จะมีกลุ่มแยกออกไปเพื่อรองรับความต้องการของผู้ใช้เชิงวิทยาศาสตร์"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to apply the changes and exit the program."
+msgstr ""
+"คลิกปุ่ม<guibutton>ตกลง</guibutton>เพื่อทำให้การเปลี่ยนแปลงมีผล และออกจากโปรแกรม"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
+msgid "Timezone Properties"
+msgstr "คุณสมบัติเขตเวลา "
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
+msgid ""
+"If your system clock is set to use UTC, select the <guibutton>System clock "
+"uses UTC</guibutton> option. UTC stands for the <firstterm>Universal Time, "
+"Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
+"zones are determined by adding or subtracting from the UTC time."
+msgstr ""
+"หากนาฬิการะบบของคุณใช้ UTC ให้เลือกตัวเลือก<guibutton>นาฬิการะบบใช้ UTC</guibutton> "
+"คำว่า UTC ย่อมาจาก  <firstterm>Universal Time, Coordinated</firstterm> "
+"หรือรู้จักกันในชื่อ Greenwich Mean Time (GMT) เขตเวลาอื่นๆ "
+"จะเกิดจากการลบหรือเพิ่มเข้าไปจากเวลา UTC"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "Manatsawin Hanmongkolchai <manatsawin@gmail.com>"
+
+#~ msgid ""
+#~ "As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
+#~ "that appears is for configuring NTP."
+#~ msgstr ""
+#~ "ดังที่แสดงใน<xref linkend=\"dateconfig-ntp\"/> แท็บที่สองจะมีไว้สำหรับตั้งค่า NTP"

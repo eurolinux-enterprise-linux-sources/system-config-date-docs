@@ -1,0 +1,456 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"POT-Creation-Date: 2012-03-05 15:23+0100\n"
+"PO-Revision-Date: 2009-04-30 02:34+0200\n"
+"Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
+"Language-Team: Greek <fedora-trans-el@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(None)
+#, fuzzy
+msgid "@@image: 'images/date-time.png'; md5=d7c0574ecc00072c5ae7bf0c70a36aa9"
+msgstr "@@image: 'images/date-time.png'; md5=5e1cbe9fcdb6322a27e929f1fa941b68"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(None)
+#, fuzzy
+msgid ""
+"@@image: 'images/date-time-ntp.png'; md5=0124c9f946aa5cd33ccf58075ce6c48f"
+msgstr ""
+"@@image: 'images/date-time-ntp.png'; md5=f34de73a771f99334204cdd6419dc7e0"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(None)
+#, fuzzy
+msgid "@@image: 'images/timezone.png'; md5=2059859babcfae5df05192c98b9ae291"
+msgstr "@@image: 'images/timezone.png'; md5=22fe7e3155978df6b828a8ea6744cfe3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(see)
+msgid "Time and Date Properties Tool"
+msgstr "Εργαλείο Ιδιοτήτων Ώρας και Ημερομηνίας"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2007-11-22"
+msgstr "2007-11-22"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Initial revision"
+msgstr "Αρχική έκδοση"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-17"
+msgstr "2008-01-17"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make DocBook XML validate properly"
+msgstr "Έγκυρη επικύρωση DocBook XML"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-01-18"
+msgstr "2008-01-18"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Make document abstract external"
+msgstr "Ορισμός ως εξωτερικού κομματιού του κειμένου"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.3"
+msgstr "1.0.3"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Use menuchoice elements where applicable"
+msgstr "Χρήση στοιχείων επιλογέων-μενού όπου είναι δυνατόν"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+msgid "1.0.10"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+msgid "2010-05-06"
+msgstr "2010-05-06"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Add copyright information"
+msgstr "Προσθήκη πληροφοριών πνευματικής ιδιοκτησίας"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revnumber)
+#, fuzzy
+msgid "1.0.11"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(date)
+#, fuzzy
+msgid "2012-03-05"
+msgstr "2010-05-06"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(revremark)
+msgid "Update screenshots and some descriptions"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:50(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:60(para)
+msgid ""
+"The <application>Time and Date Properties Tool</application> allows the user "
+"to change the system date and time, to configure the time zone used by the "
+"system, and to setup the Network Time Protocol (NTP) daemon to synchronize "
+"the system clock with a time server."
+msgstr ""
+"Το <application>Εργαλείο Ιδιοτήτων Ώρας και Ημερομηνίας</application> "
+"επιτρέπει στο χρήστη να αλλάξει την ώρα και ημερομηνία του συστήματος, να "
+"ρυθμίσει την ζώνη ώρας του συστήματος και να ρυθμίσει την εργασία (deamon) "
+"Προτοκόλου Δικτυακής Ώρας (NTP) για να συγχρονίζεται η ώρα του συστήματος με "
+"έναν εξυπηρετητή ώρας."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:58(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:57(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2007"
+msgstr "2007"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2008"
+msgstr "2008"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+msgid "2010"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(year)
+#, fuzzy
+msgid "2012"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(holder)
+msgid "Red Hat, Inc."
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:59(command)
+msgid "timetool"
+msgstr "timetool"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:68(command)
+msgid "system-config-date"
+msgstr "system-config-date"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:69(command)
+msgid "system-config-time"
+msgstr "system-config-time"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:70(command)
+msgid "dateconfig"
+msgstr "dateconfig"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:71(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the Time and Date Properties Tool. There are three "
+"ways to start the application:"
+msgstr ""
+"Πρέπει να εκτελείται το Σύστημα παραθύρων <application>X</application> και "
+"να έχετε δικαιώματα διαχειριστή για να χρησιμοποιήσετε το εργαλείο ιδιοτήτων "
+"ώρας και ημερομηνίας. Υπάρχουν τρείς τρόποι για να εκιννήσετε την εφαρμογή:"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:73(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Date &amp; "
+"Time</guimenuitem></menuchoice>"
+msgstr ""
+"Από την επιφάνεια εργασίας, μεταβείτε στο <menuchoice><guimenu>κεντρικό "
+"μενού (το μενού με το εικονίδιο \"f\")</guimenu><guisubmenu>Σύστημα</"
+"guisubmenu><guisubmenu>Διαχείριση</guisubmenu><guimenuitem>Ημερομηνία και "
+"ώρα</guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:75(para)
+msgid ""
+"From the desktop, right-click on the time in the toolbar and select "
+"<guimenuitem>Adjust Date and Time</guimenuitem>."
+msgstr ""
+"Στην επιφάνεια εργασίας, δεξί κλίκ στην ώρα στην μπάρα εργαλείων και "
+"επιλέξτε <guimenuitem>Ρύθμιση Ημερομηνίας και Ώρας</guimenuitem>."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:77(para)
+msgid ""
+"Type the command <command>system-config-date</command>, <command>system-"
+"config-time</command>, or <command>dateconfig</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+"Πληκτρολογείστε την εντολή <command>system-config-date</command>,ή την "
+"εντολή <command>dateconfig</command> σε ένα κέλυφος (Για παράδειγμα,στο "
+"τερματικό του <application>Xterm</application> ή του <application>Gnome</"
+"application>)."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:84(para)
+msgid "Time and Date Properties"
+msgstr "Ιδιότητες Ώρας και Ημερομηνίας"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "time configuration"
+msgstr "ρυθμίσεις ώρας"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(primary)
+msgid "date configuration"
+msgstr "ρυθμίσεις ημερομηνίας"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:82(para)
+#, fuzzy
+msgid ""
+"As shown in <xref linkend=\"dateconfig-time-date\"/>, on the first tab you "
+"can configure the system date and time."
+msgstr ""
+"Όπως φαίνεται από το <xref linkend=\"dateconfig-time-date\"/>,η πρώτη "
+"καρτέλα που εμφανίζεται είναι για να ρυθμίσετε την ημερομηνία και την ώρα "
+"του συστήματος."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:86(para)
+msgid ""
+"To change the date, use the arrows to the left and right of the month to "
+"change the month, use the arrows to the left and right of the year to change "
+"the year, and click on the day of the week to change the day of the week."
+msgstr ""
+"Για να αλλάξετε την ημερομηνία,χρησιμοποιήστε το αριστερό και το δεξί βελάκι "
+"δίπλα από τον μήνα για να τον αλλάξετε,χρησιμοποιήστε το αριστερό και το "
+"δεξί βελάκι δίπλα από το έτος για να το αλλάξετε,και κάντε κλικ στην ημέρα "
+"της εβδομάδας για να την αλλάξετε."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:88(para)
+msgid ""
+"To change the time, use the up and down arrow buttons beside the "
+"<guilabel>Hour</guilabel>, <guilabel>Minute</guilabel>, and "
+"<guilabel>Second</guilabel> in the <guilabel>Time</guilabel> section."
+msgstr ""
+"Για να αλλάξετε την ώρα,χρησιμοποιήστε το πάνω και κάτω βελάκι δίπλα από την "
+"<guilabel>ώρα</guilabel>,τα <guilabel>λεπτά</guilabel>,και τα "
+"<guilabel>δευτερόλεπτα</guilabel> στην επιλογή <guilabel>Ώρα</guilabel>."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:91(para)
+msgid ""
+"Alternatively, you can use the keyboard to change date and time. Use "
+"<keycap>Tab</keycap> and <keycombo><keycap>Shift</keycap><keycap>Tab</"
+"keycap></keycombo> to move between the widgets. In the calendar widget, you "
+"can use <keycombo><keycap>Ctrl</keycap><keycap>Up</keycap></keycombo> and "
+"<keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></keycombo> to change "
+"the year, <keycombo><keycap>Ctrl</keycap><keycap>Left</keycap></keycombo> "
+"and <keycombo><keycap>Ctrl</keycap><keycap>Right</keycap></keycombo> to "
+"change the month and the arrow keys and <keycap>Space</keycap> to choose and "
+"set a date. In the hour, minute and second widgets, use <keycap>Up</keycap> "
+"and <keycap>Down</keycap> to change the values."
+msgstr ""
+"Εναλλακτικά,μπορείτε να χρησιμοποιήσετε το πληκτρολόγιο για να αλλάξετε την "
+"ημέρα και ώρα.Χρησιμοποιήσετε τον συνδυασμό <keycap>Tab</keycap> και "
+"<keycombo><keycap>Shift</keycap><keycap>Tab</keycap></keycombo> για να "
+"μετακινηθείτε στις μικροεφαρμογές.Στην μικροεφαρμογή του ημερολογίου,"
+"μπορείτε να χρησιμοποιήσετε <keycombo><keycap>Ctrl</keycap><keycap>Up</"
+"keycap></keycombo> και <keycombo><keycap>Ctrl</keycap><keycap>Down</keycap></"
+"keycombo> για να αλλάξετε το έτος,<keycombo><keycap>Ctrl</"
+"keycap><keycap>Left</keycap></keycombo> και <keycombo><keycap>Ctrl</"
+"keycap><keycap>Right</keycap></keycombo> για να αλλάξετε τον μήνα, και τα "
+"βελάκια και το <keycap>Space</keycap> για να επιλέξετε και να ρυθμίσετε μια "
+"ημερομηνία.Για την αλλαγή της ώρας,των λεπτών και των δευτερολέπτων,"
+"χρησιμοποιήστε το βελάκι <keycap>Up</keycap> και <keycap>Down</keycap> για "
+"να αλλάξετε τις τιμές."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:93(para)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:105(para)
+msgid ""
+"Clicking the <guibutton>OK</guibutton> button applies any changes made to "
+"the date and time, the NTP daemon settings, and the time zone settings. It "
+"also exits the program."
+msgstr ""
+"Πατώντας το  <guibutton>OK</guibutton> εφαρμόζει τυχόν αλλαγές στην "
+"ημερομηνία και ώρα, στον δαίμονα NTP, στη ζώνη ώρας και επίσης κλείνει το "
+"πρόγραμμα."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(title)
+msgid "Network Time Protocol (NTP) Properties"
+msgstr "Ιδιότητες πρωτοκόλλου δικτυακής ώρας (NTP)"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "synchronize with NTP server"
+msgstr "συγχρονισμός με εξυπηρετητή NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "Network Time Protocol"
+msgstr "Πρωτόκολλο δικτυακής ώρας (NTP)"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(see)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(primary)
+msgid "NTP"
+msgstr "NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(secondary)
+msgid "configuring"
+msgstr "ρύθμιση"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:96(command)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:97(command)
+msgid "ntpd"
+msgstr "ntpd"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:98(para)
+msgid ""
+"As shown in <xref linkend=\"dateconfig-ntp\"/>, instead of manually "
+"configuring date and time you can choose to have them be set automatically "
+"and continuously updated from one or more time servers."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:100(para)
+msgid "NTP Properties"
+msgstr "Ιδιότητες NTP"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:102(para)
+#, fuzzy
+msgid ""
+"The Network Time Protocol (NTP) daemon synchronizes the system clock with a "
+"remote time server or time source. The application allows you to configure "
+"an NTP daemon to synchronize your system clock with a remote server. To "
+"enable this feature, select <guibutton>Synchronize date and time over the "
+"network</guibutton>. This enables the <guilabel>NTP Servers</guilabel> list "
+"and other options. You can choose one of the predefined servers, edit a "
+"predefined server by clicking the <guibutton>Edit</guibutton> or add a new "
+"server name by clicking <guibutton>Add</guibutton>. Your system does not "
+"start synchronizing with the NTP server until you click <guibutton>OK</"
+"guibutton>. After clicking <guibutton>OK</guibutton>, the configuration is "
+"saved and the NTP daemon is started (or restarted if it is already running)."
+msgstr ""
+"Ο δαίμονας του Πρωτοκόλλου Ώρας Δικτύου συγχρονίζει το ρολόι του συστήματος "
+"με έναν απομακρυσμένο εξυπηρετητή ώρας ή πηγή ώρας.Η εφαρμογή σας επιτρέπει "
+"να ρυθμίσετε έναν NTP δαίμονα να συγχρονίζει το ρολόι του συστήματός σας με "
+"έναν απομακρυσμένο εξυπηρετητή.Για να ενεργοποιήσετε αυτήν την επιλογή, "
+"επιλέξτε <guibutton>Ενεργοποίηση Πρωτοκόλλου Ώρας Δικτύου</guibutton>.Αυτό "
+"ενεργοποιεί την λίστα <guilabel>Εξυπηρετητές NTP</guilabel> και άλλες "
+"επιλογές.Μπορείτε να επιλέξετε έναν από τους προκαθορισμένους εξυπηρετητές,"
+"να επεξεργαστείτε έναν προκαθορισμένο εξυπηρετητή κάνοντας κλικ στην "
+"<guibutton>Επεξεργασία</guibutton> ή να προσθέσετε έναν νέο εξυπηρετητή "
+"κάνοντας κλικ στην <guibutton>Προσθήκη</guibutton>.Το σύστημά σας δεν "
+"αρχίζει τον συγχρονισμό του με τον NTP εξυπηρέτη μέχρι να πατήσετε "
+"<guibutton>Εντάξει</guibutton>.Μετά το πάτημα <guibutton>Εντάξει</"
+"guibutton>, η ρύθμιση αποθηκεύεται και ο δαίμονας NTP ξεκινά ( ή "
+"επανεκκινείται εάν τρέχει ήδη)."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(title)
+msgid "Time Zone Configuration"
+msgstr "Ρύθμιση ζώνης ώρας"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(primary)
+msgid "time zone configuration"
+msgstr "ρυθμίσεις ζώνης ώρας"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:108(para)
+#, fuzzy
+msgid ""
+"As shown in <xref linkend=\"dateconfig-timezone\"/>, on the second tab you "
+"can configure the system time zone."
+msgstr ""
+"Όπως φένεται στο <xref linkend=\"dateconfig-timezone\"/>, το τρίτο παράθυρο-"
+"πάνελ που εμφανίζεται αφορά την ρύθμιση της ζώνης ώρας του συστήματος."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:110(para)
+msgid ""
+"To configure the system time zone, click the <guilabel>Time Zone</guilabel> "
+"tab. The time zone can be changed by either using the interactive map or by "
+"choosing the desired time zone from the list below the map. To use the map, "
+"click into it to choose the city specific to your time zone. A red "
+"<guilabel>X</guilabel> appears and the time zone selection changes in the "
+"list below the map. You can use the slider to the left of the map to change "
+"the zoom level."
+msgstr ""
+"Για να ρυθμίσετε τη ζώνη ώρας του συστήματος,κάντε κλικ στην καρτέλα "
+"<guilabel>Ζώνη ώρας</guilabel>.Η ζώνη ώρας μπορεί να αλλάξει είτε "
+"χρησιμοποιώντας τον χάρτη είτε επιλέγοντας την επιθυμητή ζώνη ώρας από την "
+"λίστα κάτω από τον χάρτη.Για να χρησιμοποιήσετε τον χάρτη,κάντε κλικ μέσα "
+"του για να επιλέξετε την σχετική με την ζώνη ώρας πόλη.Ένα κόκκινο "
+"<guilabel>Χ</guilabel> εμφανίζεται και η επιλογή ζώνης ώρας αλλάζει από την "
+"λίστα κάτω από τον χάρτη.Μπορείτε να χρησιμοποιήσετε την μπάρα κύλισης στα "
+"αριστερά για να αλλάξετε το επίπεδο ζουμ."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:112(para)
+msgid ""
+"Alternatively, you can also use the list below the map. In the same way that "
+"the map lets you choose a region before choosing a city, the list of time "
+"zones is now a treelist, with cities and countries grouped within their "
+"specific continents. Non-geographic time zones have also been added to "
+"address needs in the scientific community."
+msgstr ""
+"Εναλλακτικά, μπορείτε να χρησιμοποιήσετε την λίστα κάτω απο τον χάρτη. Με "
+"τον ίδιο τρόπο που ο χάρτης επιτρέπει την επιλογή περιοχής πριν την επιλογή "
+"πόλης, έτσι και η λίστα ζωνών ώρας είναι δενδροειδής, με τις πόλεις και τις "
+"χώρες ομαδοποιημενες στις ηπείρους τους. Μη-γεωγραφικές ζώνες ώρες έχουν "
+"προστεθεί για να ικανοποιήσουν την επιστημονική κοινότητα."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:114(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to apply the changes and exit the program."
+msgstr ""
+"Πατήστε <guibutton>Εντάξει</guibutton> για εφαρμογή των αλλαγών και έξοδο "
+"από το πρόγραμμα."
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(title)
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:117(para)
+msgid "Timezone Properties"
+msgstr "Ιδιότητες ζώνης ώρας"
+
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:119(para)
+msgid ""
+"If your system clock is set to use UTC, select the <guibutton>System clock "
+"uses UTC</guibutton> option. UTC stands for the <firstterm>Universal Time, "
+"Coordinated</firstterm>, also known as Greenwich Mean Time (GMT). Other time "
+"zones are determined by adding or subtracting from the UTC time."
+msgstr ""
+"Εάν το ρολόι του συστήματος σας είναι ρυθμισμένο να χρησιμοποιεί UTC, "
+"επιλέξτε την επιλογή <guibutton>Το ρολόι του συστήματος χρησιμοποιεί UTC</"
+"guibutton>. UTC σημαίνει <firstterm>Universal Time, Coordinated (Παγκόσμια "
+"Καθορισμένη Ώρα)</firstterm>, επίσης γνωστή και ωςGreenwich Mean Time (GMT). "
+"Οι υπόλοιπες ζώνες καθορίζονται με πρόσθεση ή αφαίρεση απο την ώρα UTC."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-date-docs/doc/C/system-config-date-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "Πιέρρος Παπαδέας <ppapadeas@gmail.com>, 2009."
+
+#~ msgid ""
+#~ "As shown in <xref linkend=\"dateconfig-ntp\"/>, the second tabbed window "
+#~ "that appears is for configuring NTP."
+#~ msgstr ""
+#~ "Όπως φένεται στο <xref linkend=\"dateconfig-ntp\"/>,το δεύτερο παράθυρο-"
+#~ "πάνελ που εμφανίζεται ρυθμίζει το  NTP."
